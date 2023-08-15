@@ -1,61 +1,64 @@
-[19:29:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:29:33] [ServerMain/INFO]: Loaded 7 recipes
-[19:29:33] [ServerMain/INFO]: Loaded 1271 advancements
-[19:29:34] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[19:29:34] [Server thread/INFO]: Loading properties
-[19:29:34] [Server thread/INFO]: Default game type: SURVIVAL
-[19:29:34] [Server thread/INFO]: Generating keypair
-[19:29:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:29:34] [Server thread/INFO]: Using default channel type
-[19:29:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:29:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:29:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:29:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:29:34] [Server thread/INFO]: Preparing level "world"
-[19:29:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:29:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-2/INFO]: Preparing spawn area: 9%
-[19:29:47] [Worker-Main-2/INFO]: Preparing spawn area: 72%
-[19:29:47] [Server thread/INFO]: Time elapsed: 9355 ms
-[19:29:47] [Server thread/INFO]: Done (12.744s)! For help, type "help"
-[19:29:53] [Server thread/INFO]: Kevin_Barbor[/127.0.0.1:58998] logged in with entity id 243 at (-21.540088403161807, 104.88754928757217, 33.25555046140523)
-[19:29:53] [Server thread/INFO]: Kevin_Barbor joined the game
-[19:30:01] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:zombie_one']
-[19:30:49] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[19:40:23] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
-[19:40:32] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
-[19:40:45] [Server thread/INFO]: [Kevin_Barbor: Killed Pillager]
-[19:41:40] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[19:44:33] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
-[19:44:42] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
-[19:45:06] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[19:46:14] [Server thread/INFO]: Kevin_Barbor has made the advancement [A Seedy Place]
-[19:47:14] [Server thread/INFO]: Stopping the server
-[19:47:14] [Server thread/INFO]: Stopping server
-[19:47:14] [Server thread/INFO]: Saving players
-[19:47:14] [Server thread/INFO]: Kevin_Barbor lost connection: Server closed
-[19:47:14] [Server thread/INFO]: Kevin_Barbor left the game
-[19:47:14] [Server thread/INFO]: Saving worlds
-[19:47:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:47:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:47:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:47:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:47:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:47:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:47:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:53:10] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:53:13] [ServerMain/INFO]: Loaded 7 recipes
+[01:53:13] [ServerMain/INFO]: Loaded 1271 advancements
+[01:53:14] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[01:53:14] [Server thread/INFO]: Loading properties
+[01:53:14] [Server thread/INFO]: Default game type: SURVIVAL
+[01:53:14] [Server thread/INFO]: Generating keypair
+[01:53:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:53:14] [Server thread/INFO]: Using default channel type
+[01:53:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:53:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:53:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:53:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:53:14] [Server thread/INFO]: Preparing level "world"
+[01:53:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:53:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:53:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:53:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:53:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:53:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:53:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:53:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:53:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:53:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:53:25] [Worker-Main-3/INFO]: Preparing spawn area: 7%
+[01:53:25] [Worker-Main-2/INFO]: Preparing spawn area: 80%
+[01:53:25] [Server thread/INFO]: Time elapsed: 7813 ms
+[01:53:25] [Server thread/INFO]: Done (11.423s)! For help, type "help"
+[01:53:34] [Server thread/INFO]: Kevin_Barbor[/127.0.0.1:53416] logged in with entity id 231 at (53.0867166857623, 91.0, -29.69999998807907)
+[01:53:34] [Server thread/INFO]: Kevin_Barbor joined the game
+[02:00:24] [Server thread/INFO]: Kevin_Barbor has made the advancement [Stone Age]
+[02:28:09] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[02:30:04] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[02:38:36] [Server thread/INFO]: Saving is already turned on
+[02:40:44] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[02:41:04] [Server thread/INFO]: [Kevin_Barbor: Gave 1 [Steak] to Kevin_Barbor]
+[02:41:07] [Server thread/INFO]: [Kevin_Barbor: Gave 3 [Steak] to Kevin_Barbor]
+[02:43:05] [Server thread/INFO]: Kevin_Barbor has made the advancement [Monster Hunter]
+[02:44:29] [Server thread/INFO]: Kevin_Barbor was killed
+[02:44:29] [Server thread/INFO]: [Kevin_Barbor: Killed Kevin_Barbor]
+[02:46:37] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[02:50:38] [Server thread/INFO]: [Kevin_Barbor: Applied effect Instant Health to Kevin_Barbor]
+[02:50:45] [Server thread/INFO]: Kevin_Barbor was killed
+[02:50:45] [Server thread/INFO]: [Kevin_Barbor: Killed Kevin_Barbor]
+[02:50:59] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[02:51:15] [Server thread/INFO]: [Kevin_Barbor: Applied effect Instant Health to Kevin_Barbor]
+[02:51:53] [Server thread/INFO]: Kevin_Barbor lost connection: Disconnected
+[02:51:53] [Server thread/INFO]: Kevin_Barbor left the game
+[02:52:07] [Server thread/INFO]: Stopping the server
+[02:52:07] [Server thread/INFO]: Stopping server
+[02:52:07] [Server thread/INFO]: Saving players
+[02:52:07] [Server thread/INFO]: Saving worlds
+[02:52:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:52:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:52:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:52:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:52:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:52:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:52:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
