@@ -1,1 +1,1 @@
-team join herobine @e[type=!player,enderman,creeper,blaze,phantom,Piglin,piglin,brute,Pillager,drowned,cave_spider,creeper,ravager,slime,zombie,skeleton,pillager,evoker,spider,vindicator,zoglin,husk,zombie_villager,zombified_piglin]
+team join herobine @e[type=!minecraft:player,limit=10,sort=nearest]
