@@ -1,401 +1,53 @@
-[03:09:35] [ServerMain/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
-[03:09:35] [ServerMain/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
-[03:09:35] [ServerMain/WARN]: Disabling further attempts to query Paging File.
-[03:09:38] [ServerMain/WARN]: COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
-[03:09:46] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:09:50] [ServerMain/INFO]: Loaded 7 recipes
-[03:09:50] [ServerMain/INFO]: Loaded 1271 advancements
-[03:09:51] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[03:09:51] [Server thread/INFO]: Loading properties
-[03:09:51] [Server thread/INFO]: Default game type: SURVIVAL
-[03:09:51] [Server thread/INFO]: Generating keypair
-[03:09:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:09:52] [Server thread/INFO]: Using default channel type
-[03:09:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:09:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:09:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:09:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:09:52] [Server thread/INFO]: Preparing level "world"
-[03:09:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:10:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:10:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:10:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:10:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:10:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:10:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:10:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:10:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:10:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:10:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:10:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:10:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:10:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:10:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:10:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:10:04] [Worker-Main-2/INFO]: Preparing spawn area: 37%
-[03:10:05] [Server thread/INFO]: Time elapsed: 8246 ms
-[03:10:05] [Server thread/INFO]: Done (12.584s)! For help, type "help"
-[03:11:34] [Server thread/INFO]: AbramsM1[/127.0.0.1:49188] logged in with entity id 217 at (23.824068793349266, 91.0, 25.008243651611792)
-[03:11:34] [Server thread/INFO]: AbramsM1 joined the game
-[03:24:16] [Server thread/INFO]: LuckyFivenight[/26.56.88.114:49647] logged in with entity id 1741 at (1.5, 88.0, -8.5)
-[03:24:16] [Server thread/INFO]: LuckyFivenight joined the game
-[03:24:30] [Server thread/INFO]: Kevin_Barbor[/26.246.11.39:64907] logged in with entity id 1783 at (3.771628883935797, 87.0, 20.095830343002945)
-[03:24:30] [Server thread/INFO]: Kevin_Barbor joined the game
-[03:27:30] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[03:28:42] [Server thread/INFO]: [Kevin_Barbor: Summoned new Chicken]
-[03:29:01] [Server thread/INFO]: [Kevin_Barbor: Summoned new Chicken]
-[03:29:12] [Server thread/INFO]: LuckyFivenight has made the advancement [Stone Age]
-[03:29:32] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
-[03:30:51] [Server thread/INFO]: [Kevin_Barbor: Summoned new Cow]
-[03:31:43] [Server thread/INFO]: LuckyFivenight has made the advancement [Getting an Upgrade]
-[03:32:57] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to LuckyFivenight]
-[03:33:21] [Server thread/INFO]: [Kevin_Barbor: Played sound minecraft:ambient.cave to Kevin_Barbor]
-[03:33:42] [Server thread/INFO]: [Kevin_Barbor: Played sound minecraft:ambient.cave to Kevin_Barbor]
-[03:33:54] [Server thread/INFO]: RabPhii[/26.157.186.243:49328] logged in with entity id 3363 at (-7.5, 97.0, -6.5)
-[03:33:54] [Server thread/INFO]: RabPhii joined the game
-[03:33:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-8, y=96, z=-7}
-[03:34:08] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[03:34:25] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-12, y=94, z=-6}
-[03:34:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-12, y=94, z=-10}
-[03:34:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-12, y=95, z=-10}
-[03:34:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-12, y=94, z=-10}
-[03:34:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-12, y=95, z=-10}
-[03:34:48] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[03:34:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-12, y=95, z=-10}
-[03:34:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-12, y=94, z=-10}
-[03:34:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-12, y=94, z=-10}
-[03:35:23] [Server thread/INFO]: [Kevin_Barbor: Summoned new Chicken]
-[03:36:01] [Server thread/INFO]: Kevin_Barbor lost connection: Disconnected
-[03:36:01] [Server thread/INFO]: Kevin_Barbor left the game
-[03:36:18] [Server thread/INFO]: RabPhii has made the advancement [Stone Age]
-[03:36:20] [Server thread/INFO]: Kevin_Barbor[/26.246.11.39:65010] logged in with entity id 3797 at (21.617488057207126, 94.28825928962159, 24.564549800053676)
-[03:36:20] [Server thread/INFO]: Kevin_Barbor joined the game
-[03:37:10] [Server thread/INFO]: [Kevin_Barbor: Played sound minecraft:ambient.cave to RabPhii]
-[03:37:42] [Server thread/INFO]: RabPhii has made the advancement [Getting an Upgrade]
-[03:38:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=4, y=79, z=34} gu{x=15, y=85, z=15}
-[03:38:52] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=4, y=79, z=34} gu{x=15, y=86, z=15}
-[03:39:07] [Server thread/INFO]: [Kevin_Barbor: Played sound minecraft:ambient.cave to 4 players]
-[03:40:20] [Server thread/INFO]: [Kevin_Barbor: Set the time to 0]
-[03:41:04] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[03:43:09] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[03:43:41] [Server thread/INFO]: [Kevin_Barbor: Summoned new Cod]
-[03:47:02] [Server thread/INFO]: [Kevin_Barbor: Played sound minecraft:weather.rain to Kevin_Barbor]
-[03:47:41] [Server thread/INFO]: [Kevin_Barbor: Played sound minecraft:ambient.cave to 4 players]
-[03:48:38] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
-[03:48:45] [Server thread/INFO]: LuckyFivenight has made the advancement [Monster Hunter]
-[03:48:58] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
-[03:49:24] [Server thread/INFO]: LuckyFivenight was shot by Skeleton
-[03:50:07] [Server thread/INFO]: [Kevin_Barbor: Played sound minecraft:ambient.cave to 4 players]
-[03:50:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=17, y=62, z=15} gu{x=16, y=62, z=15}
-[03:50:26] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
-[03:50:36] [Server thread/INFO]: RabPhii has made the advancement [Monster Hunter]
-[03:51:38] [Server thread/INFO]: [Kevin_Barbor: Summoned new Chicken]
-[03:53:41] [Server thread/INFO]: [Kevin_Barbor: Summoned new Wolf]
-[03:53:49] [Server thread/INFO]: [Kevin_Barbor: Summoned new Wolf]
-[03:53:55] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
-[03:54:38] [Server thread/INFO]: RabPhii has made the advancement [Acquire Hardware]
-[03:54:44] [Server thread/WARN]: Kevin_Barbor moved too quickly! -29.876738822583246,22.60369373934455,72.17854144107767
-[03:54:48] [Server thread/INFO]: RabPhii was shot by Skeleton
-[03:54:57] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[03:57:03] [Server thread/INFO]: RabPhii has made the advancement [Sweet Dreams]
-[03:57:08] [Server thread/INFO]: LuckyFivenight has made the advancement [Sweet Dreams]
-[03:59:28] [Server thread/INFO]: [Kevin_Barbor: Summoned new Chicken]
-[03:59:36] [Server thread/INFO]: [Kevin_Barbor: Killed Zombie]
-[03:59:48] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[04:00:10] [Server thread/INFO]: [Kevin_Barbor: Summoned new Chicken]
-[04:00:36] [Server thread/WARN]: Kevin_Barbor moved too quickly! 30.147826604774814,16.176759275064242,61.087750475583455
-[04:00:47] [Server thread/INFO]: [Kevin_Barbor: Summoned new Chicken]
-[04:02:04] [Server thread/INFO]: [Kevin_Barbor: Summoned new Chicken]
-[04:03:13] [Server thread/WARN]: Kevin_Barbor moved too quickly! -227.74866645647836,-125.99511652072243,-117.4636105151175
-[04:03:17] [Server thread/INFO]: RabPhii has made the advancement [Sneak 100]
-[04:03:35] [Server thread/INFO]: LuckyFivenight has made the advancement [Acquire Hardware]
-[04:03:36] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
-[04:03:46] [Server thread/WARN]: Kevin_Barbor moved too quickly! 42.388900494531235,18.377223685570186,-6.67748922222189
-[04:04:04] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[04:04:29] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[04:04:35] [Server thread/WARN]: Kevin_Barbor moved too quickly! 25.312176282354912,2.4874267540643906,-18.48636687471904
-[04:04:54] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
-[04:04:57] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
-[04:05:26] [Server thread/INFO]: [Kevin_Barbor: Summoned new Chicken]
-[04:05:35] [Server thread/INFO]: [Kevin_Barbor: Killed Creeper]
-[04:06:30] [Server thread/INFO]: [Kevin_Barbor: Killed Chicken]
-[04:06:59] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
-[04:07:06] [Server thread/INFO]: Kevin_Barbor was killed
-[04:07:06] [Server thread/INFO]: [Kevin_Barbor: Killed Kevin_Barbor]
-[04:07:22] [Server thread/INFO]: [Kevin_Barbor: Killed Creeper]
-[04:07:41] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
-[04:07:52] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
-[04:08:02] [Server thread/INFO]: [Kevin_Barbor: Killed Creeper]
-[04:08:35] [Server thread/INFO]: [Kevin_Barbor: Summoned new Sheep]
-[04:08:41] [Server thread/INFO]: [Kevin_Barbor: Summoned new Sheep]
-[04:08:59] [Server thread/INFO]: [Kevin_Barbor: Summoned new Sheep]
-[04:09:08] [Server thread/INFO]: [Kevin_Barbor: Summoned new Sheep]
-[04:11:32] [Server thread/INFO]: RabPhii has made the advancement [Not Today, Thank You]
-[04:12:53] [Server thread/INFO]: [Not Secure] <RabPhii> yup
-[04:13:08] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
-[04:13:08] [Server thread/WARN]: Kevin_Barbor moved too quickly! -4.346822910147809,-1.489055963192527,10.005215061401088
-[04:13:20] [Server thread/INFO]: [Kevin_Barbor: Teleported RabPhii to AbramsM1]
-[04:13:20] [Server thread/WARN]: RabPhii moved too quickly! -48.197618249781414,50.2468000194788,13.839903100275617
-[04:13:41] [Server thread/INFO]: [Not Secure] <RabPhii> nigger
-[04:14:17] [Server thread/INFO]: [Not Secure] <RabPhii> nothing
-[04:14:25] [Server thread/INFO]: [Not Secure] <RabPhii> เดี๋ยวไปหาให้
-[04:14:53] [Server thread/INFO]: LuckyFivenight has made the advancement [Not Today, Thank You]
-[04:16:59] [Server thread/INFO]: RabPhii has made the advancement [Isn't It Iron Pick]
-[04:17:35] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
-[04:18:06] [Server thread/INFO]: RabPhii has made the advancement [Best Friends Forever]
-[04:18:17] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
-[04:19:00] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
-[04:20:43] [Server thread/INFO]: RabPhii lost connection: Disconnected
-[04:20:43] [Server thread/INFO]: RabPhii left the game
-[04:21:24] [Server thread/INFO]: RabPhii[/26.157.186.243:51856] logged in with entity id 13150 at (13.409022417936528, 60.62973220334615, 69.23584647837299)
-[04:21:24] [Server thread/INFO]: RabPhii joined the game
-[04:22:54] [Server thread/INFO]: RabPhii lost connection: Timed out
-[04:22:54] [Server thread/INFO]: RabPhii left the game
-[04:23:56] [Server thread/INFO]: [Kevin_Barbor: Set the weather to rain]
-[04:24:17] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:24:23] [Server thread/INFO]: RabPhii[/26.157.186.243:51874] logged in with entity id 13687 at (10.007158717865531, 86.67647087614428, 7.692694577608132)
-[04:24:23] [Server thread/INFO]: RabPhii joined the game
-[04:24:45] [Server thread/INFO]: RabPhii lost connection: Disconnected
-[04:24:45] [Server thread/INFO]: RabPhii left the game
-[04:24:52] [Server thread/WARN]: Kevin_Barbor moved too quickly! -14.882447782720972,-23.01056705357859,38.97162577777705
-[04:25:05] [Server thread/INFO]: RabPhii[/26.157.186.243:51919] logged in with entity id 13778 at (10.007158717865531, 86.67647087614428, 7.692694577608132)
-[04:25:05] [Server thread/INFO]: RabPhii joined the game
-[04:25:22] [Server thread/INFO]: RabPhii lost connection: Disconnected
-[04:25:22] [Server thread/INFO]: RabPhii left the game
-[04:25:23] [Server thread/INFO]: [Kevin_Barbor: Played sound minecraft:ambient.cave to AbramsM1]
-[04:25:39] [Server thread/WARN]: Kevin_Barbor moved too quickly! -29.885363622394852,8.682683455246078,1.1731944627912405
-[04:25:50] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:25:58] [Server thread/INFO]: AbramsM1 was slain by Spider
-[04:26:01] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
-[04:26:03] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:26:05] [Server thread/INFO]: RabPhii[/26.157.186.243:52007] logged in with entity id 13989 at (10.007158717865531, 86.67647087614428, 7.692694577608132)
-[04:26:05] [Server thread/INFO]: RabPhii joined the game
-[04:26:23] [Server thread/INFO]: AbramsM1 has made the advancement [Stone Age]
-[04:26:40] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton Horse]
-[04:26:44] [Server thread/INFO]: AbramsM1 has made the advancement [Monster Hunter]
-[04:26:59] [Server thread/INFO]: [Kevin_Barbor: Set the weather to rain & thunder]
-[04:27:16] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:27:36] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:27:51] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:27:52] [Server thread/INFO]: AbramsM1 has made the advancement [Getting an Upgrade]
-[04:28:22] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
-[04:28:30] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
-[04:28:44] [Server thread/INFO]: [Kevin_Barbor: Summoned new Witch]
-[04:29:03] [Server thread/INFO]: AbramsM1 burned to death
-[04:29:11] [Server thread/WARN]: Kevin_Barbor moved too quickly! 33.27169493690109,-11.637310549687228,-20.011380720506097
-[04:29:11] [Server thread/INFO]: RabPhii hit the ground too hard
-[04:29:12] [Server thread/WARN]: Kevin_Barbor moved too quickly! -19.7978740084133,9.747796659746271,8.302002403622383
-[04:29:29] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
-[04:30:02] [Server thread/INFO]: LuckyFivenight has made the advancement [Take Aim]
-[04:30:42] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
-[04:31:09] [Server thread/WARN]: Kevin_Barbor moved too quickly! 30.226675600674856,-13.886966852474387,47.686137064699125
-[04:31:25] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
-[04:31:52] [Server thread/WARN]: Kevin_Barbor moved too quickly! -51.87170110139296,11.419999986886978,-20.07831440534914
-[04:32:16] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
-[04:32:36] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
-[04:33:05] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:33:06] [Server thread/INFO]: AbramsM1 was blown up by Creeper
-[04:34:11] [Server thread/INFO]: AbramsM1 was shot by Skeleton
-[04:34:28] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
-[04:34:35] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:34:47] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:35:01] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:35:06] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:35:23] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:35:31] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:35:48] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:35:53] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:36:07] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
-[04:36:12] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
-[04:36:20] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:36:21] [Server thread/INFO]: AbramsM1 was struck by lightning
-[04:36:52] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:37:04] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
-[04:37:10] [Server thread/INFO]: RabPhii lost connection: Disconnected
-[04:37:10] [Server thread/INFO]: RabPhii left the game
-[04:37:19] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
-[04:37:25] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
-[04:37:41] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:38:18] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
-[04:38:40] [Server thread/INFO]: [Kevin_Barbor: Summoned new Horse]
-[04:39:00] [Server thread/INFO]: [Kevin_Barbor: Summoned new Horse]
-[04:39:06] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton Horse]
-[04:39:21] [Server thread/INFO]: AbramsM1 was slain by Spider
-[04:39:47] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
-[04:40:18] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[04:41:09] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[04:41:36] [Server thread/INFO]: Kevin_Barbor lost connection: Disconnected
-[04:41:36] [Server thread/INFO]: Kevin_Barbor left the game
-[04:49:06] [Server thread/INFO]: AbramsM1 has made the advancement [Acquire Hardware]
-[04:49:20] [Server thread/INFO]: AbramsM1 has made the advancement [Isn't It Iron Pick]
-[04:54:19] [Server thread/INFO]: LuckyFivenight has made the advancement [Isn't It Iron Pick]
-[04:58:36] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=5, y=86, z=18} gu{x=4, y=86, z=16}
-[04:58:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=5, y=86, z=18} gu{x=4, y=86, z=16}
-[04:58:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=5, y=86, z=18} gu{x=3, y=86, z=15}
-[04:58:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=5, y=86, z=18} gu{x=3, y=85, z=13}
-[04:58:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=5, y=86, z=18} gu{x=5, y=85, z=11}
-[04:58:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=5, y=86, z=18} gu{x=6, y=85, z=13}
-[04:58:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=5, y=86, z=18} gu{x=8, y=85, z=10}
-[04:58:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=5, y=86, z=18} gu{x=7, y=85, z=10}
-[04:58:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=5, y=86, z=18} gu{x=10, y=84, z=15}
-[04:58:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=5, y=86, z=18} gu{x=10, y=85, z=16}
-[05:03:16] [Server thread/INFO]: LuckyFivenight has made the advancement [A Seedy Place]
-[05:06:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2361ms or 47 ticks behind
-[05:06:48] [Server thread/INFO]: AbramsM1 has made the advancement [Diamonds!]
-[05:07:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=8, y=85, z=16}
-[05:07:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=9, y=85, z=16}
-[05:07:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=9, y=85, z=16}
-[05:07:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=9, y=85, z=16}
-[05:07:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=10, y=85, z=16}
-[05:07:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=10, y=85, z=16}
-[05:07:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=11, y=84, z=15}
-[05:07:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=11, y=84, z=14}
-[05:07:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=12, y=84, z=14}
-[05:07:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=12, y=84, z=14}
-[05:07:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=12, y=84, z=14}
-[05:07:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=13, y=84, z=14}
-[05:07:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=13, y=84, z=14}
-[05:07:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=13, y=84, z=14}
-[05:07:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=13, y=84, z=14}
-[05:07:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=15, y=84, z=14}
-[05:07:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=15, y=84, z=14}
-[05:07:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=15, y=84, z=14}
-[05:07:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=15, y=84, z=14}
-[05:07:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=15, y=84, z=14}
-[05:07:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=15, y=84, z=14}
-[05:07:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=86, z=21} gu{x=15, y=84, z=14}
-[05:08:06] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=58, y=80, z=42} gu{x=57, y=79, z=43}
-[05:08:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=32, y=76, z=63} gu{x=31, y=76, z=64}
-[05:08:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=33, y=77, z=62} gu{x=33, y=75, z=62}
-[05:08:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=41, y=74, z=40} gu{x=41, y=73, z=41}
-[05:12:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=9, y=86, z=1}
-[05:12:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=9, y=86, z=1}
-[05:12:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=9, y=86, z=1}
-[05:12:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=9, y=86, z=1}
-[05:12:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=9, y=86, z=1}
-[05:12:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=10, y=87, z=-1}
-[05:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=10, y=87, z=-1}
-[05:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=10, y=87, z=-1}
-[05:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=10, y=87, z=-1}
-[05:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=10, y=87, z=-1}
-[05:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=12, y=86, z=-1}
-[05:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=12, y=86, z=-1}
-[05:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=12, y=86, z=-1}
-[05:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=12, y=86, z=-1}
-[05:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=12, y=86, z=-1}
-[05:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=12, y=86, z=-1}
-[05:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=12, y=86, z=-1}
-[05:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=12, y=86, z=-1}
-[05:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=31} gu{x=12, y=86, z=-1}
-[05:12:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=20, y=84, z=8} gu{x=14, y=86, z=2}
-[05:13:50] [Server thread/INFO]: AbramsM1 has made the advancement [Not Today, Thank You]
-[05:19:41] [Server thread/INFO]: AbramsM1 was shot by Skeleton
-[05:21:52] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=6, y=86, z=31} gu{x=12, y=85, z=7}
-[05:21:52] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=6, y=86, z=31} gu{x=13, y=86, z=8}
-[05:21:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=19, y=84, z=14} gu{x=16, y=84, z=14}
-[05:21:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=19, y=84, z=14} gu{x=16, y=84, z=14}
-[05:21:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=19, y=84, z=14} gu{x=14, y=84, z=14}
-[05:21:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=19, y=84, z=14} gu{x=13, y=84, z=14}
-[05:21:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=19, y=84, z=14} gu{x=13, y=84, z=14}
-[05:21:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=19, y=84, z=14} gu{x=12, y=84, z=14}
-[05:21:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=19, y=84, z=14} gu{x=12, y=84, z=14}
-[05:30:53] [Server thread/INFO]: AbramsM1 has made the advancement [Sweet Dreams]
-[05:39:45] [Server thread/INFO]: AbramsM1 has made the advancement [The Parrots and the Bats]
-[05:52:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=8, y=90, z=29} gu{x=3, y=92, z=31}
-[05:55:03] [Server thread/INFO]: LuckyFivenight lost connection: Disconnected
-[05:55:03] [Server thread/INFO]: LuckyFivenight left the game
-[06:07:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=7, y=92, z=18} gu{x=5, y=90, z=16}
-[06:09:14] [Server thread/INFO]: AbramsM1 lost connection: Disconnected
-[06:09:14] [Server thread/INFO]: AbramsM1 left the game
-[06:09:43] [Server thread/INFO]: /advancement (grant|revoke)
-[06:09:43] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[06:09:43] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[06:09:43] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[06:09:43] [Server thread/INFO]: /clear [<targets>]
-[06:09:43] [Server thread/INFO]: /clone (<begin>|from)
-[06:09:43] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[06:09:43] [Server thread/INFO]: /data (merge|get|remove|modify)
-[06:09:43] [Server thread/INFO]: /datapack (enable|disable|list)
-[06:09:43] [Server thread/INFO]: /debug (start|stop|function)
-[06:09:43] [Server thread/INFO]: /defaultgamemode <gamemode>
-[06:09:43] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[06:09:43] [Server thread/INFO]: /effect (clear|give)
-[06:09:43] [Server thread/INFO]: /me <action>
-[06:09:43] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[06:09:43] [Server thread/INFO]: /experience (add|set|query)
-[06:09:43] [Server thread/INFO]: /xp -> experience
-[06:09:43] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[06:09:43] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[06:09:43] [Server thread/INFO]: /forceload (add|remove|query)
-[06:09:43] [Server thread/INFO]: /function <name>
-[06:09:43] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[06:09:43] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[06:09:43] [Server thread/INFO]: /give <targets> <item> [<count>]
-[06:09:43] [Server thread/INFO]: /help [<command>]
-[06:09:43] [Server thread/INFO]: /item (replace|modify)
-[06:09:43] [Server thread/INFO]: /kick <targets> [<reason>]
-[06:09:43] [Server thread/INFO]: /kill [<targets>]
-[06:09:43] [Server thread/INFO]: /list [uuids]
-[06:09:43] [Server thread/INFO]: /locate (structure|biome|poi)
-[06:09:43] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[06:09:43] [Server thread/INFO]: /msg <targets> <message>
-[06:09:43] [Server thread/INFO]: /tell -> msg
-[06:09:43] [Server thread/INFO]: /w -> msg
-[06:09:43] [Server thread/INFO]: /particle <name> [<pos>]
-[06:09:43] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[06:09:43] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[06:09:43] [Server thread/INFO]: /reload
-[06:09:43] [Server thread/INFO]: /recipe (give|take)
-[06:09:43] [Server thread/INFO]: /return <value>
-[06:09:43] [Server thread/INFO]: /ride <target> (mount|dismount)
-[06:09:43] [Server thread/INFO]: /say <message>
-[06:09:43] [Server thread/INFO]: /schedule (function|clear)
-[06:09:43] [Server thread/INFO]: /scoreboard (objectives|players)
-[06:09:43] [Server thread/INFO]: /seed
-[06:09:43] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[06:09:43] [Server thread/INFO]: /spawnpoint [<targets>]
-[06:09:43] [Server thread/INFO]: /setworldspawn [<pos>]
-[06:09:43] [Server thread/INFO]: /spectate [<target>]
-[06:09:43] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[06:09:43] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[06:09:43] [Server thread/INFO]: /summon <entity> [<pos>]
-[06:09:43] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[06:09:43] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[06:09:43] [Server thread/INFO]: /teammsg <message>
-[06:09:43] [Server thread/INFO]: /tm -> teammsg
-[06:09:43] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[06:09:43] [Server thread/INFO]: /tp -> teleport
-[06:09:43] [Server thread/INFO]: /tellraw <targets> <message>
-[06:09:43] [Server thread/INFO]: /time (set|add|query)
-[06:09:43] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[06:09:43] [Server thread/INFO]: /trigger <objective> [add|set]
-[06:09:43] [Server thread/INFO]: /weather (clear|rain|thunder)
-[06:09:43] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[06:09:43] [Server thread/INFO]: /jfr (start|stop)
-[06:09:43] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[06:09:43] [Server thread/INFO]: /banlist [ips|players]
-[06:09:43] [Server thread/INFO]: /ban <targets> [<reason>]
-[06:09:43] [Server thread/INFO]: /deop <targets>
-[06:09:43] [Server thread/INFO]: /op <targets>
-[06:09:43] [Server thread/INFO]: /pardon <targets>
-[06:09:43] [Server thread/INFO]: /pardon-ip <target>
-[06:09:43] [Server thread/INFO]: /perf (start|stop)
-[06:09:43] [Server thread/INFO]: /save-all [flush]
-[06:09:43] [Server thread/INFO]: /save-off
-[06:09:43] [Server thread/INFO]: /save-on
-[06:09:43] [Server thread/INFO]: /setidletimeout <minutes>
-[06:09:43] [Server thread/INFO]: /stop
-[06:09:43] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[06:09:54] [Server thread/INFO]: Saving the game (this may take a moment!)
-[06:09:54] [Server thread/INFO]: Saved the game
-[06:09:59] [Server thread/INFO]: Stopping the server
-[06:09:59] [Server thread/INFO]: Stopping server
-[06:09:59] [Server thread/INFO]: Saving players
-[06:09:59] [Server thread/INFO]: Saving worlds
-[06:09:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:10:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06:10:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:22:01] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:22:06] [ServerMain/INFO]: Loaded 7 recipes
+[17:22:07] [ServerMain/INFO]: Loaded 1271 advancements
+[17:22:08] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[17:22:08] [Server thread/INFO]: Loading properties
+[17:22:08] [Server thread/INFO]: Default game type: SURVIVAL
+[17:22:08] [Server thread/INFO]: Generating keypair
+[17:22:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:22:09] [Server thread/INFO]: Using default channel type
+[17:22:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:22:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:22:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:22:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:22:10] [Server thread/INFO]: Preparing level "world"
+[17:22:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:22:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:22:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:22:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:22:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:22:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:22:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:22:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:22:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:22:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:22:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:22:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:22:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:22:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:22:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:22:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:22:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:22:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:22:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:22:24] [Worker-Main-3/INFO]: Preparing spawn area: 15%
+[17:22:24] [Worker-Main-3/INFO]: Preparing spawn area: 47%
+[17:22:25] [Server thread/INFO]: Time elapsed: 10189 ms
+[17:22:25] [Server thread/INFO]: Done (14.548s)! For help, type "help"
+[17:25:26] [Server thread/INFO]: Created team [herobine]
+[17:26:33] [Server thread/INFO]: Added Kevin_Barbor to team [herobine]
+[17:30:21] [Server thread/INFO]: Created team [Brave]
+[17:30:39] [Server thread/INFO]: No entity was found
+[17:31:08] [Server thread/INFO]: Team [herobine] has 1 member(s): Kevin_Barbor
+[17:49:22] [Server thread/INFO]: Stopping the server
+[17:49:22] [Server thread/INFO]: Stopping server
+[17:49:22] [Server thread/INFO]: Saving players
+[17:49:22] [Server thread/INFO]: Saving worlds
+[17:49:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:49:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:49:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:49:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:49:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:49:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:49:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
