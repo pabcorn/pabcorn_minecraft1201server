@@ -1,0 +1,1 @@
+summon spider ~ ~1 ~ {Team:herobine,Attributes:[{Name:"generic.movement_speed",Base:0.4f}],Passengers:[{id:skeleton,HandItems:[{id:bow,Count:1}],HandDropChances:[0.60f]}]}

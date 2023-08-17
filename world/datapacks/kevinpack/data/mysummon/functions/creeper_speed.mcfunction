@@ -1,0 +1,1 @@
+summon creeper ~ ~1 ~ {Team:herobine,Fuse:20,ExplosionRadius:2,ArmorItems:[{},{},{},{id:golden_helmet,Count:1}],ArmorDropChances:[0f,0f,0f,0.20f],Attributes:[{Name:"generic.movement_speed",Base:0.5f}]}
