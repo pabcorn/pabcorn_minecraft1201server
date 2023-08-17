@@ -1,64 +1,897 @@
-[01:53:10] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:53:13] [ServerMain/INFO]: Loaded 7 recipes
-[01:53:13] [ServerMain/INFO]: Loaded 1271 advancements
-[01:53:14] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[01:53:14] [Server thread/INFO]: Loading properties
-[01:53:14] [Server thread/INFO]: Default game type: SURVIVAL
-[01:53:14] [Server thread/INFO]: Generating keypair
-[01:53:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:53:14] [Server thread/INFO]: Using default channel type
-[01:53:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:53:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:53:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:53:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:53:14] [Server thread/INFO]: Preparing level "world"
-[01:53:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:53:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:53:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:53:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:53:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:53:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:53:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:53:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:53:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:53:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:53:25] [Worker-Main-3/INFO]: Preparing spawn area: 7%
-[01:53:25] [Worker-Main-2/INFO]: Preparing spawn area: 80%
-[01:53:25] [Server thread/INFO]: Time elapsed: 7813 ms
-[01:53:25] [Server thread/INFO]: Done (11.423s)! For help, type "help"
-[01:53:34] [Server thread/INFO]: Kevin_Barbor[/127.0.0.1:53416] logged in with entity id 231 at (53.0867166857623, 91.0, -29.69999998807907)
-[01:53:34] [Server thread/INFO]: Kevin_Barbor joined the game
-[02:00:24] [Server thread/INFO]: Kevin_Barbor has made the advancement [Stone Age]
-[02:28:09] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[02:30:04] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[02:38:36] [Server thread/INFO]: Saving is already turned on
-[02:40:44] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
-[02:41:04] [Server thread/INFO]: [Kevin_Barbor: Gave 1 [Steak] to Kevin_Barbor]
-[02:41:07] [Server thread/INFO]: [Kevin_Barbor: Gave 3 [Steak] to Kevin_Barbor]
-[02:43:05] [Server thread/INFO]: Kevin_Barbor has made the advancement [Monster Hunter]
-[02:44:29] [Server thread/INFO]: Kevin_Barbor was killed
-[02:44:29] [Server thread/INFO]: [Kevin_Barbor: Killed Kevin_Barbor]
-[02:46:37] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[02:50:38] [Server thread/INFO]: [Kevin_Barbor: Applied effect Instant Health to Kevin_Barbor]
-[02:50:45] [Server thread/INFO]: Kevin_Barbor was killed
-[02:50:45] [Server thread/INFO]: [Kevin_Barbor: Killed Kevin_Barbor]
-[02:50:59] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
-[02:51:15] [Server thread/INFO]: [Kevin_Barbor: Applied effect Instant Health to Kevin_Barbor]
-[02:51:53] [Server thread/INFO]: Kevin_Barbor lost connection: Disconnected
-[02:51:53] [Server thread/INFO]: Kevin_Barbor left the game
-[02:52:07] [Server thread/INFO]: Stopping the server
-[02:52:07] [Server thread/INFO]: Stopping server
-[02:52:07] [Server thread/INFO]: Saving players
-[02:52:07] [Server thread/INFO]: Saving worlds
-[02:52:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:52:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:52:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:52:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:52:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:52:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:52:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:36:54] [ServerMain/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
+[14:36:54] [ServerMain/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
+[14:36:54] [ServerMain/WARN]: Disabling further attempts to query Paging File.
+[14:36:55] [ServerMain/WARN]: COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
+[14:37:00] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:37:03] [ServerMain/INFO]: Loaded 7 recipes
+[14:37:03] [ServerMain/INFO]: Loaded 1271 advancements
+[14:37:04] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[14:37:04] [Server thread/INFO]: Loading properties
+[14:37:04] [Server thread/INFO]: Default game type: SURVIVAL
+[14:37:04] [Server thread/INFO]: Generating keypair
+[14:37:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:37:04] [Server thread/INFO]: Using default channel type
+[14:37:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:37:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:37:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:37:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:37:04] [Server thread/INFO]: Preparing level "world"
+[14:37:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:37:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:37:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:37:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:37:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:37:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:37:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:37:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:37:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:37:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:37:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:37:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:37:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:37:13] [Worker-Main-2/INFO]: Preparing spawn area: 49%
+[14:37:13] [Server thread/INFO]: Time elapsed: 6451 ms
+[14:37:13] [Server thread/INFO]: Done (9.124s)! For help, type "help"
+[14:38:41] [Server thread/INFO]: AbramsM1[/127.0.0.1:60873] logged in with entity id 154 at (-175.14469744353318, 44.024424088213685, 249.85920172391818)
+[14:38:41] [Server thread/INFO]: AbramsM1 joined the game
+[14:38:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[14:41:15] [Server thread/INFO]: AbramsM1 was shot by Skeleton
+[14:55:30] [Server thread/INFO]: AbramsM1 has made the advancement [Hot Stuff]
+[15:08:26] [Server thread/INFO]: AbramsM1 was doomed to fall by Skeleton
+[15:10:14] [Server thread/INFO]: AbramsM1 was shot by Skeleton
+[15:15:02] [Server thread/INFO]: AbramsM1 was doomed to fall by Creeper
+[15:24:35] [Server thread/INFO]: AbramsM1 has made the advancement [Suit Up]
+[15:33:07] [Server thread/INFO]: AbramsM1 fell from a high place
+[15:34:46] [Server thread/INFO]: AbramsM1 fell from a high place
+[16:33:19] [Server thread/INFO]: Named entity bwf['.'/20347, l='ServerLevel[world]', x=1.08, y=102.00, z=200.50] died: . was slain by AbramsM1
+[16:37:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=39, y=80, z=10} gu{x=5, y=85, z=15}
+[16:37:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=39, y=80, z=10} gu{x=5, y=85, z=16}
+[16:37:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=39, y=80, z=10} gu{x=5, y=85, z=15}
+[16:42:18] [Server thread/INFO]: Kevin_Barbor[/26.246.11.39:54990] logged in with entity id 22438 at (4.791969711981728, 88.0, 1.2377432551183698)
+[16:42:18] [Server thread/INFO]: Kevin_Barbor joined the game
+[16:42:35] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
+[16:43:19] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=6, y=96, z=18} gu{x=11, y=99, z=10}
+[16:44:20] [Server thread/INFO]: [Kevin_Barbor: Applied effect Instant Health to Kevin_Barbor]
+[16:45:24] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[16:46:10] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[16:47:45] [Server thread/INFO]: AbramsM1 was blown up by AbramsM1
+[16:56:47] [Server thread/INFO]: Kevin_Barbor has made the advancement [Sweet Dreams]
+[16:56:59] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[17:04:20] [Server thread/INFO]: ihap_py[/26.203.209.203:52136] logged in with entity id 27870 at (-7.5, 98.0, -7.5)
+[17:04:20] [Server thread/INFO]: ihap_py joined the game
+[17:05:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=13, y=88, z=-10}
+[17:07:08] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
+[17:07:47] [Server thread/INFO]: [Kevin_Barbor: Set the weather to rain]
+[17:08:04] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to ihap_py]
+[17:08:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=8, y=86, z=-18} gu{x=8, y=87, z=1}
+[17:08:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=8, y=86, z=-18} gu{x=8, y=87, z=0}
+[17:08:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=8, y=86, z=-18} gu{x=8, y=87, z=-2}
+[17:08:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=8, y=86, z=-18} gu{x=8, y=87, z=-2}
+[17:08:49] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=8, y=86, z=-18} gu{x=9, y=89, z=-8}
+[17:08:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=8, y=86, z=-18} gu{x=9, y=88, z=-11}
+[17:08:53] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=8, y=86, z=-18} gu{x=9, y=90, z=-16}
+[17:09:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=85, z=17} gu{x=9, y=85, z=16}
+[17:09:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=85, z=17} gu{x=9, y=85, z=16}
+[17:09:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=85, z=17} gu{x=9, y=85, z=16}
+[17:09:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=85, z=17} gu{x=9, y=85, z=16}
+[17:09:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=85, z=17} gu{x=9, y=85, z=16}
+[17:09:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=85, z=17} gu{x=9, y=85, z=16}
+[17:09:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=85, z=17} gu{x=9, y=85, z=16}
+[17:09:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=85, z=17} gu{x=9, y=85, z=16}
+[17:09:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=12, y=84, z=24} gu{x=9, y=85, z=16}
+[17:09:21] [Server thread/INFO]: [Kevin_Barbor: Set the weather to clear]
+[17:09:25] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=12, y=84, z=24} gu{x=8, y=85, z=16}
+[17:09:25] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=12, y=84, z=24} gu{x=7, y=85, z=16}
+[17:09:25] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=12, y=84, z=24} gu{x=6, y=85, z=16}
+[17:09:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=12, y=84, z=24} gu{x=5, y=85, z=16}
+[17:09:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=12, y=84, z=24} gu{x=4, y=86, z=16}
+[17:09:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=12, y=84, z=24} gu{x=3, y=86, z=16}
+[17:09:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=12, y=84, z=24} gu{x=2, y=86, z=16}
+[17:09:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=12, y=84, z=24} gu{x=1, y=87, z=16}
+[17:09:27] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[17:10:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=14, y=84, z=19} gu{x=8, y=85, z=15}
+[17:12:16] [Server thread/INFO]: ihap_py has made the advancement [A Seedy Place]
+[17:13:35] [Server thread/INFO]: ihap_py has made the advancement [Stone Age]
+[17:15:30] [Server thread/INFO]: ihap_py has made the advancement [Getting an Upgrade]
+[17:15:47] [Server thread/INFO]: RabPhii[/26.157.186.243:54190] logged in with entity id 30348 at (10.509059746664974, 85.0, 29.18915085330679)
+[17:15:47] [Server thread/INFO]: RabPhii joined the game
+[17:17:24] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[17:17:33] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to RabPhii]
+[17:17:33] [Server thread/WARN]: Kevin_Barbor moved too quickly! -82.27221608301275,-62.99452366365355,51.524302561212814
+[17:17:53] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to ihap_py]
+[17:18:32] [Server thread/INFO]: ihap_py has made the advancement [Monster Hunter]
+[17:18:37] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
+[17:19:06] [Server thread/INFO]: [Kevin_Barbor: Teleported Wolf to RabPhii]
+[17:19:30] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[17:19:42] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to ihap_py]
+[17:20:08] [Server thread/INFO]: [Kevin_Barbor: Summoned new Husk]
+[17:20:32] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[17:20:36] [Server thread/INFO]: ihap_py was blown up by Creeper
+[17:20:46] [Server thread/INFO]: RabPhii lost connection: Disconnected
+[17:20:46] [Server thread/INFO]: RabPhii left the game
+[17:21:37] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[17:22:28] [Server thread/INFO]: [Kevin_Barbor: Summoned new Rabbit]
+[17:22:41] [Server thread/INFO]: [Kevin_Barbor: Summoned new Rabbit]
+[17:23:22] [Server thread/INFO]: [Kevin_Barbor: Summoned new Witch]
+[17:24:13] [Server thread/INFO]: [Kevin_Barbor: Summoned new Dolphin]
+[17:28:44] [Server thread/INFO]: [Kevin_Barbor: Summoned new Cat]
+[17:29:03] [Server thread/INFO]: [Kevin_Barbor: Summoned new Cat]
+[17:30:20] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[17:30:43] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[17:31:09] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[17:35:47] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[17:35:56] [Server thread/INFO]: Kevin_Barbor has made the advancement [Getting an Upgrade]
+[17:36:04] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[17:36:26] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[17:36:28] [Server thread/INFO]: RabPhii[/26.157.186.243:55439] logged in with entity id 39727 at (10.804819117059147, 86.0, 28.178469132700002)
+[17:36:28] [Server thread/INFO]: RabPhii joined the game
+[17:36:47] [Server thread/INFO]: [Kevin_Barbor: Gave 1 [Steak] to Kevin_Barbor]
+[17:37:07] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:joinherobine']
+[17:37:19] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=15, y=85, z=15}
+[17:37:24] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:joinherobine']
+[17:38:42] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:joinherobine']
+[17:38:42] [Server thread/INFO]: ihap_py has made the advancement [Acquire Hardware]
+[17:38:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=16, y=84, z=16}
+[17:39:17] [Server thread/INFO]: ihap_py has made the advancement [Isn't It Iron Pick]
+[17:39:39] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:joinherobine']
+[17:39:44] [Server thread/INFO]: ihap_py was shot by Skeleton
+[17:39:54] [Server thread/INFO]: Kevin_Barbor has made the advancement [Isn't It Iron Pick]
+[17:40:12] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to ihap_py]
+[17:40:18] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to ihap_py]
+[17:41:22] [Server thread/INFO]: RabPhii was slain by Zombie
+[17:41:23] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:joinherobine']
+[17:42:03] [Server thread/INFO]: RabPhii lost connection: Disconnected
+[17:42:03] [Server thread/INFO]: RabPhii left the game
+[17:42:04] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:joinherobine']
+[17:42:55] [Server thread/INFO]: [Kevin_Barbor: Removed 3 members from any team]
+[17:43:19] [Server thread/INFO]: [Kevin_Barbor: Gave 1 [Skeleton Spawn Egg] to Kevin_Barbor]
+[17:43:44] [Server thread/INFO]: [Kevin_Barbor: Added Kevin_Barbor to team [Brave]]
+[17:44:22] [Server thread/INFO]: [Kevin_Barbor: Added Kevin_Barbor to team [herobine]]
+[17:44:40] [Server thread/INFO]: RabPhii[/26.157.186.243:55938] logged in with entity id 42153 at (11.73451170782664, 86.0, 20.65869730512466)
+[17:44:40] [Server thread/INFO]: RabPhii joined the game
+[17:45:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-3, y=89, z=5}
+[17:45:28] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-5, y=90, z=7}
+[17:45:42] [Server thread/INFO]: [Kevin_Barbor: Added 21 members to team [herobine]]
+[17:46:21] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[17:46:47] [Server thread/INFO]: [Kevin_Barbor: Added 4 members to team [Brave]]
+[17:48:21] [Server thread/INFO]: [Kevin_Barbor: Removed 292 members from any team]
+[17:48:48] [Server thread/INFO]: [Kevin_Barbor: Removed AbramsM1 from any team]
+[17:49:16] [Server thread/INFO]: [Kevin_Barbor: Removed 4 members from any team]
+[17:49:43] [Server thread/INFO]: [Kevin_Barbor: Removed 3 member(s) from team [herobine]]
+[17:49:56] [Server thread/INFO]: [Kevin_Barbor: Added 4 members to team [Brave]]
+[17:50:02] [Server thread/INFO]: [Kevin_Barbor: Removed Kevin_Barbor from any team]
+[17:53:47] [Server thread/INFO]: [Kevin_Barbor: Added 2 members to team [herobine]]
+[18:03:09] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[18:03:35] [Server thread/INFO]: [Kevin_Barbor: Killed Vindicator]
+[18:04:25] [Server thread/INFO]: [Kevin_Barbor: Summoned new Illusioner]
+[18:04:30] [Server thread/INFO]: [Kevin_Barbor: Killed Illusioner]
+[18:06:39] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to RabPhii]
+[18:07:42] [Server thread/INFO]: RabPhii was shot by Pillager
+[18:08:15] [Server thread/INFO]: RabPhii was shot by Pillager
+[18:08:40] [Server thread/INFO]: RabPhii has made the advancement [Voluntary Exile]
+[18:10:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-25, y=105, z=-8} gu{x=-12, y=97, z=-5}
+[18:10:20] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
+[18:14:05] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
+[18:14:15] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[18:14:19] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to RabPhii]
+[18:14:41] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
+[18:15:48] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
+[18:17:27] [Server thread/INFO]: RabPhii has made the advancement [Take Aim]
+[18:17:40] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
+[18:18:19] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
+[18:18:39] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[18:19:10] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
+[18:20:36] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[18:21:32] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[18:22:23] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[18:22:48] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[18:22:54] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[18:23:03] [Server thread/INFO]: [Kevin_Barbor: Teleported 31 entities to Kevin_Barbor]
+[18:23:32] [Server thread/INFO]: RabPhii was shot by Skeleton
+[18:23:39] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[18:23:48] [Server thread/INFO]: Kevin_Barbor has made the advancement [Acquire Hardware]
+[18:24:08] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to RabPhii]
+[18:24:26] [Server thread/INFO]: [Kevin_Barbor: Teleported RabPhii to Kevin_Barbor]
+[18:24:59] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[18:25:32] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
+[18:27:23] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
+[18:27:45] [Server thread/INFO]: RabPhii has made the advancement [Suit Up]
+[18:28:09] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
+[18:28:39] [Server thread/INFO]: [Kevin_Barbor: Set the weather to rain & thunder]
+[18:28:53] [Server thread/INFO]: [Not Secure] <AbramsM1> ไม่มี
+[18:28:56] [Server thread/INFO]: RabPhii lost connection: Disconnected
+[18:28:56] [Server thread/INFO]: RabPhii left the game
+[18:29:15] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[18:29:22] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[18:29:23] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[18:29:49] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
+[18:30:23] [Server thread/WARN]: Kevin_Barbor moved too quickly! -26.10307186198204,-0.26283550423246993,7.981826569649574
+[18:31:49] [Server thread/INFO]: [Kevin_Barbor: Set the weather to clear]
+[18:34:42] [Server thread/INFO]: [Kevin_Barbor: Killed 22 entities]
+[18:35:00] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[18:35:10] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[18:43:38] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[18:43:41] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[18:44:01] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[18:45:11] [Server thread/INFO]: [Kevin_Barbor: Added 5 members to team [herobine]]
+[18:45:29] [Server thread/INFO]: [Kevin_Barbor: Added Kevin_Barbor to team [herobine]]
+[18:45:43] [Server thread/INFO]: [Kevin_Barbor: Added Kevin_Barbor to team [herobine]]
+[18:46:48] [Server thread/INFO]: [Kevin_Barbor: Teleported 8 entities to Kevin_Barbor]
+[18:47:57] [Server thread/INFO]: WhoinParis[/26.36.38.153:57665] logged in with entity id 56256 at (-8.5, 91.0, 7.5)
+[18:47:57] [Server thread/INFO]: WhoinParis joined the game
+[18:48:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-12, y=94, z=10}
+[18:48:18] [Server thread/INFO]: [Kevin_Barbor: Added WhoinParis to team [Brave]]
+[18:49:04] [Server thread/INFO]: RabPhii[/26.157.186.243:60099] logged in with entity id 56467 at (10.26189260702071, 85.0, 29.423162182349042)
+[18:49:04] [Server thread/INFO]: RabPhii joined the game
+[18:49:14] [Server thread/INFO]: AbramsM1 has made the advancement [What a Deal!]
+[18:49:46] [Server thread/INFO]: WhoinParis has made the advancement [Stone Age]
+[18:49:50] [Server thread/INFO]: WhoinParis has made the advancement [Getting an Upgrade]
+[18:49:57] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[18:50:14] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[18:51:17] [Server thread/INFO]: RabPhii lost connection: Disconnected
+[18:51:17] [Server thread/INFO]: RabPhii left the game
+[18:53:10] [Server thread/INFO]: WhoinParis has made the advancement [A Seedy Place]
+[18:53:19] [Server thread/INFO]: [Kevin_Barbor: Set the weather to rain]
+[18:53:30] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[18:53:32] [Server thread/INFO]: RabPhii[/26.157.186.243:60562] logged in with entity id 57581 at (26.210290035858087, 85.0, 6.1278676460584345)
+[18:53:32] [Server thread/INFO]: RabPhii joined the game
+[18:54:02] [Server thread/INFO]: RabPhii lost connection: Disconnected
+[18:54:02] [Server thread/INFO]: RabPhii left the game
+[18:54:06] [Server thread/INFO]: [Kevin_Barbor: Set the weather to clear]
+[18:55:28] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1, y=86, z=24} gu{x=15, y=85, z=15}
+[18:55:35] [Server thread/INFO]: RabPhii[/26.157.186.243:60716] logged in with entity id 58009 at (13.84408915352114, 86.0, 21.76567880273357)
+[18:55:35] [Server thread/INFO]: RabPhii joined the game
+[18:55:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1, y=86, z=24} gu{x=13, y=84, z=14}
+[18:55:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=10, y=85, z=18} gu{x=15, y=86, z=15}
+[18:55:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=10, y=85, z=18} gu{x=15, y=85, z=15}
+[18:55:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=10, y=85, z=18} gu{x=14, y=84, z=16}
+[18:55:45] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1, y=86, z=24} gu{x=14, y=86, z=-14}
+[18:57:59] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
+[18:58:41] [Server thread/INFO]: [Kevin_Barbor: Added 4 members to team [herobine]]
+[18:59:25] [Server thread/INFO]: [Kevin_Barbor: Teleported 4 entities to Kevin_Barbor]
+[19:00:37] [Server thread/INFO]: AbramsM1 was slain by Enderman
+[19:00:51] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[19:01:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=22, y=86, z=14} gu{x=15, y=85, z=15}
+[19:01:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=22, y=86, z=14} gu{x=15, y=86, z=15}
+[19:01:39] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
+[19:01:43] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
+[19:01:50] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
+[19:02:34] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[19:05:43] [Server thread/INFO]: RabPhii lost connection: Disconnected
+[19:05:43] [Server thread/INFO]: RabPhii left the game
+[19:05:53] [Server thread/INFO]: RabPhii[/26.157.186.243:61266] logged in with entity id 61040 at (94.75994588871501, 71.25220334025373, 52.73301632372684)
+[19:05:53] [Server thread/INFO]: RabPhii joined the game
+[19:06:29] [Server thread/INFO]: koyota[/26.37.124.184:57764] logged in with entity id 61349 at (9.5, 92.0, -1.5)
+[19:06:29] [Server thread/INFO]: koyota joined the game
+[19:06:34] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:07:07] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:07:36] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:07:58] [Server thread/INFO]: RabPhii was shot by Skeleton
+[19:08:45] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[19:09:01] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[19:09:08] [Server thread/INFO]: WhoinParis has made the advancement [Acquire Hardware]
+[19:09:15] [Server thread/INFO]: WhoinParis has made the advancement [Isn't It Iron Pick]
+[19:09:28] [Server thread/INFO]: koyota lost connection: Disconnected
+[19:09:28] [Server thread/INFO]: koyota left the game
+[19:10:40] [Server thread/INFO]: WhoinParis has made the advancement [Suit Up]
+[19:10:56] [Server thread/INFO]: [Kevin_Barbor: Summoned new Spider]
+[19:12:58] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:13:37] [Server thread/INFO]: [Kevin_Barbor: Summoned new Iron Golem]
+[19:14:14] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:14:24] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:14:51] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:15:30] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:15:47] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:16:01] [Server thread/WARN]: Kevin_Barbor moved too quickly! -690.9502001443207,-66.37771094539647,-171.27752151574668
+[19:16:10] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:16:17] [Server thread/WARN]: Kevin_Barbor moved too quickly! 713.408623714559,56.261335758330006,185.5887099885833
+[19:16:29] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:16:40] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:18:34] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[19:19:32] [Server thread/INFO]: WhoinParis has made the advancement [Not Today, Thank You]
+[19:19:34] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:19:51] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:20:09] [Server thread/INFO]: WhoinParis has made the advancement [Monster Hunter]
+[19:20:10] [Server thread/INFO]: [Kevin_Barbor: Summoned new Blaze]
+[19:20:14] [Server thread/INFO]: [Kevin_Barbor: Summoned new Blaze]
+[19:20:18] [Server thread/INFO]: [Kevin_Barbor: Summoned new Blaze]
+[19:20:39] [Server thread/INFO]: [Kevin_Barbor: Summoned new Blaze]
+[19:20:41] [Server thread/INFO]: [Kevin_Barbor: Summoned new Blaze]
+[19:20:43] [Server thread/INFO]: [Kevin_Barbor: Summoned new Blaze]
+[19:20:58] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:21:01] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:21:16] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:21:36] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:21:51] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[19:22:18] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[19:22:24] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[19:23:07] [Server thread/INFO]: [Kevin_Barbor: Teleported 5 entities to Kevin_Barbor]
+[19:23:17] [Server thread/INFO]: [Kevin_Barbor: Teleported 5 entities to Kevin_Barbor]
+[19:23:35] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[19:23:52] [Server thread/INFO]: AbramsM1 was doomed to fall by Kevin_Barbor
+[19:23:58] [Server thread/INFO]: koyota609[/26.37.124.184:57978] logged in with entity id 68635 at (-6.5, 91.0, 7.5)
+[19:23:58] [Server thread/INFO]: koyota609 joined the game
+[19:24:00] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[19:24:01] [Server thread/INFO]: Kevin_Barbor has made the advancement [Suit Up]
+[19:24:20] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
+[19:25:25] [Server thread/INFO]: AbramsM1 was burnt to a crisp whilst fighting Skeleton
+[19:25:42] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[19:25:50] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:joinherobine']
+[19:26:18] [Server thread/INFO]: AbramsM1 was burnt to a crisp whilst fighting Skeleton
+[19:26:56] [Server thread/INFO]: AbramsM1 was shot by Skeleton
+[19:27:28] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
+[19:28:13] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[19:29:05] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[19:29:14] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to koyota609]
+[19:29:31] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to WhoinParis]
+[19:30:01] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:30:08] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:30:09] [Server thread/INFO]: [Not Secure] <RabPhii> xaero-waypoint:hame:H:12:86:22:10:false:0:Internal-overworld-waypoints
+[19:30:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[19:30:27] [Server thread/INFO]: [Not Secure] <RabPhii> 12,86,22
+[19:30:29] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:30:51] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:31:20] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:31:25] [Server thread/INFO]: koyota609 was blown up by Creeper
+[19:31:28] [Server thread/INFO]: WhoinParis has made the advancement [What a Deal!]
+[19:32:15] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:32:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[19:32:32] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
+[19:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[19:32:54] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:32:56] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:33:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4334ms or 86 ticks behind
+[19:33:13] [Server thread/INFO]: [Kevin_Barbor: Kicked ihap_py: Kicked by an operator]
+[19:33:13] [Server thread/INFO]: ihap_py lost connection: Kicked by an operator
+[19:33:13] [Server thread/INFO]: ihap_py left the game
+[19:33:42] [Server thread/INFO]: [Kevin_Barbor: Summoned new Drowned]
+[19:33:47] [Server thread/INFO]: [Kevin_Barbor: Summoned new Drowned]
+[19:33:59] [Server thread/INFO]: WhoinParis has made the advancement [Best Friends Forever]
+[19:34:02] [Server thread/INFO]: [Kevin_Barbor: Summoned new Drowned]
+[19:34:27] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:34:36] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:35:03] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:35:20] [Server thread/INFO]: [Not Secure] <WhoinParis> 705 105 -313
+[19:36:38] [Server thread/INFO]: WhoinParis has made the advancement [Sweet Dreams]
+[19:37:23] [Server thread/INFO]: koyota609 has made the advancement [Sweet Dreams]
+[19:37:41] [Server thread/INFO]: [Kevin_Barbor: Set the weather to rain]
+[19:38:01] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:38:11] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:38:29] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[19:38:40] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[19:38:54] [Server thread/INFO]: [Kevin_Barbor: Summoned new Husk]
+[19:38:56] [Server thread/INFO]: [Kevin_Barbor: Summoned new Husk]
+[19:39:16] [Server thread/INFO]: [Kevin_Barbor: Summoned new Husk]
+[19:39:18] [Server thread/INFO]: [Kevin_Barbor: Summoned new Husk]
+[19:39:53] [Server thread/INFO]: [Kevin_Barbor: Teleported 5 entities to Kevin_Barbor]
+[19:40:06] [Server thread/INFO]: [Kevin_Barbor: Teleported 5 entities to Kevin_Barbor]
+[19:40:23] [Server thread/INFO]: [Kevin_Barbor: Teleported 5 entities to Kevin_Barbor]
+[19:40:37] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[19:40:43] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[19:40:52] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[19:41:06] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[19:41:11] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[19:41:20] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[19:41:27] [Server thread/INFO]: koyota609 has made the advancement [Suit Up]
+[19:41:27] [Server thread/INFO]: koyota609 has made the advancement [Isn't It Iron Pick]
+[19:41:36] [Server thread/INFO]: [Kevin_Barbor: Killed 98 entities]
+[19:41:54] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[19:42:16] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[19:42:24] [Server thread/WARN]: Kevin_Barbor moved too quickly! 695.9162915373242,-14.244335946623679,-260.5421693849921
+[19:42:44] [Server thread/INFO]: [Kevin_Barbor: Teleported 5 entities to Kevin_Barbor]
+[19:43:14] [Server thread/INFO]: [Kevin_Barbor: Teleported 5 entities to Kevin_Barbor]
+[19:43:51] [Server thread/INFO]: koyota609 has made the advancement [Stone Age]
+[19:44:05] [Server thread/INFO]: [Kevin_Barbor: Teleported 10 entities to Kevin_Barbor]
+[19:44:30] [Server thread/INFO]: [Kevin_Barbor: Set the weather to rain & thunder]
+[19:44:57] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:45:11] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:45:15] [Server thread/INFO]: koyota609 has made the advancement [Not Today, Thank You]
+[19:45:19] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:45:19] [Server thread/INFO]: koyota609 has made the advancement [Monster Hunter]
+[19:45:29] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:45:31] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:45:48] [Server thread/INFO]: [Not Secure] <RabPhii> xaero-waypoint:damn nigga:D:693:87:-301:4:false:0:Internal-overworld-waypoints
+[19:45:53] [Server thread/INFO]: [Kevin_Barbor: Played sound minecraft:ambient.cave to 5 players]
+[19:45:58] [Server thread/INFO]: [Not Secure] <RabPhii> 693 97 -301
+[19:46:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:46:55] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[19:47:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=65, y=102, z=-369} gu{x=64, y=100, z=-369}
+[19:47:55] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[19:48:50] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[19:49:10] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[19:49:25] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
+[19:49:29] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
+[19:50:02] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:50:27] [Server thread/INFO]: [Kevin_Barbor: Teleported AbramsM1 to Kevin_Barbor]
+[19:50:27] [Server thread/WARN]: AbramsM1 moved too quickly! 723.0404359882752,-93.13110904507823,10.755030826664722
+[19:50:27] [Server thread/WARN]: AbramsM1 moved too quickly! 723.0404359882752,-93.13110904507823,10.755030826664722
+[19:50:35] [Server thread/INFO]: [Kevin_Barbor: Teleported koyota609 to Kevin_Barbor]
+[19:50:35] [Server thread/WARN]: koyota609 moved too quickly! 724.4780219273986,-92.10668495686457,11.013008609482085
+[19:52:09] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:52:18] [Server thread/INFO]: AbramsM1 was blown up by Creeper
+[19:52:26] [Server thread/INFO]: [Kevin_Barbor: Teleported AbramsM1 to Kevin_Barbor]
+[19:52:26] [Server thread/WARN]: AbramsM1 moved too quickly! 571.1084143464499,-11.033365517381625,-351.9148591191695
+[19:53:05] [Server thread/INFO]: [Kevin_Barbor: Teleported 3 entities to Kevin_Barbor]
+[19:53:36] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[19:53:54] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[19:54:25] [Server thread/INFO]: AbramsM1 lost connection: Disconnected
+[19:54:25] [Server thread/INFO]: AbramsM1 left the game
+[19:54:34] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[19:54:53] [Server thread/INFO]: [Kevin_Barbor: Killed Warden]
+[19:54:59] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[19:55:00] [Server thread/INFO]: AbramsM1[/127.0.0.1:62759] logged in with entity id 85027 at (570.1780384214666, 80.0, -312.79319477070027)
+[19:55:00] [Server thread/INFO]: AbramsM1 joined the game
+[19:55:34] [Server thread/WARN]: Kevin_Barbor moved too quickly! -69.54161383349276,-7.483207527236075,6.534365639666646
+[19:55:59] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:56:02] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[19:56:22] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[19:56:32] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:56:33] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:56:41] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:56:53] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:58:10] [Server thread/INFO]: [Kevin_Barbor: Teleported 3 entities to Kevin_Barbor]
+[19:58:20] [Server thread/INFO]: [Kevin_Barbor: Teleported 3 entities to Kevin_Barbor]
+[19:58:34] [Server thread/INFO]: [Kevin_Barbor: Teleported 3 entities to Kevin_Barbor]
+[19:59:03] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[19:59:08] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[19:59:15] [Server thread/INFO]: Kevin_Barbor was killed
+[19:59:15] [Server thread/INFO]: [Kevin_Barbor: Killed Kevin_Barbor]
+[19:59:42] [Server thread/INFO]: [Not Secure] <Kevin_Barbor> 10 22
+[19:59:49] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[20:00:10] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to koyota609]
+[20:00:55] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.46504695706363464
+[20:00:58] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.49409794814914676
+[20:00:58] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.8666008575608259
+[20:00:59] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.35387501529169185
+[20:01:01] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.25772132988117846
+[20:01:17] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pillager]
+[20:01:21] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pillager]
+[20:01:46] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.43921271927811745
+[20:02:00] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pillager]
+[20:02:05] [Server thread/INFO]: [Kevin_Barbor: Killed Pillager]
+[20:02:18] [Server thread/INFO]: [Kevin_Barbor: Killed Pillager]
+[20:02:30] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.2574668508990925
+[20:02:34] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[20:02:42] [Server thread/WARN]: Kevin_Barbor moved too quickly! -570.4701079320822,-91.11300236882448,5.298831080166185
+[20:02:50] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[20:02:55] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.3026130373791318
+[20:02:55] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.5556866293389078
+[20:02:55] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.5820597284830171
+[20:02:55] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 1.1812963890383656
+[20:02:55] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.6037223477748768
+[20:02:55] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.6077626836892023
+[20:02:55] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.6097711052113084
+[20:02:55] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.6104018739431609
+[20:02:55] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.6106863998237628
+[20:02:55] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.6099103331750229
+[20:02:56] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.603983860284572
+[20:02:56] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.5882759128298147
+[20:02:56] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.5707359036038042
+[20:03:05] [Server thread/INFO]: WhoinParis lost connection: Timed out
+[20:03:05] [Server thread/INFO]: WhoinParis left the game
+[20:03:22] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[20:03:36] [Server thread/INFO]: WhoinParis[/26.36.38.153:60871] logged in with entity id 89135 at (736.42112522108, 160.0, -56.95186192006912)
+[20:03:36] [Server thread/INFO]: WhoinParis joined the game
+[20:03:44] [Server thread/INFO]: [Kevin_Barbor: Summoned new Fox]
+[20:04:16] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[20:04:39] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[20:05:01] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pillager]
+[20:05:02] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pillager]
+[20:05:08] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pillager]
+[20:05:11] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pillager]
+[20:05:33] [Server thread/INFO]: AbramsM1 hit the ground too hard whilst trying to escape Pillager
+[20:05:42] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[20:05:52] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.42857584762646184
+[20:06:00] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
+[20:06:02] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=692, y=90, z=-298} gu{x=-8, y=96, z=14}
+[20:06:02] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=692, y=90, z=-298} gu{x=-7, y=96, z=14}
+[20:06:23] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.44654269323200424
+[20:06:29] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.4620581993953756
+[20:06:31] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[20:07:06] [Server thread/WARN]: Horse (vehicle of RabPhii) moved wrongly! 0.27024329834478067
+[20:07:29] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[20:07:41] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[20:07:45] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[20:07:53] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
+[20:08:10] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[20:08:48] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:zombie_one']
+[20:08:52] [Server thread/INFO]: koyota609 has made the advancement [Diamonds!]
+[20:09:14] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:zombie_one']
+[20:09:31] [Server thread/INFO]: WhoinParis has made the advancement [Take Aim]
+[20:09:48] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[20:09:53] [Server thread/INFO]: koyota609 was doomed to fall by Skeleton
+[20:10:31] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[20:11:06] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=9, y=86, z=21} gu{x=0, y=87, z=14}
+[20:11:07] [Server thread/INFO]: [Kevin_Barbor: Teleported 6 entities to Kevin_Barbor]
+[20:12:03] [Server thread/INFO]: [Kevin_Barbor: Teleported 8 entities to Kevin_Barbor]
+[20:12:18] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[20:12:36] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:zombie_one']
+[20:12:38] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:zombie_one']
+[20:12:47] [Server thread/INFO]: RabPhii was shot by Skeleton
+[20:12:49] [Server thread/INFO]: AbramsM1 was slain by Kevin_Barbor
+[20:13:04] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[20:13:09] [Server thread/INFO]: RabPhii was shot by Skeleton
+[20:13:18] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[20:14:13] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[20:14:27] [Server thread/INFO]: [Kevin_Barbor: Teleported 8 entities to Kevin_Barbor]
+[20:14:46] [Server thread/INFO]: WhoinParis lost connection: Disconnected
+[20:14:46] [Server thread/INFO]: WhoinParis left the game
+[20:15:02] [Server thread/INFO]: [Kevin_Barbor: Teleported 8 entities to Kevin_Barbor]
+[20:15:46] [Server thread/INFO]: [Kevin_Barbor: Teleported 3 entities to Kevin_Barbor]
+[20:15:52] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-3, y=90, z=10}
+[20:15:52] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-3, y=90, z=11}
+[20:15:53] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-5, y=91, z=10}
+[20:16:43] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[20:16:54] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[20:16:55] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[20:17:19] [Server thread/INFO]: RabPhii lost connection: Disconnected
+[20:17:19] [Server thread/INFO]: RabPhii left the game
+[20:18:59] [Server thread/INFO]: [Kevin_Barbor: Added 3 members to team [Brave]]
+[20:19:07] [Server thread/INFO]: [Kevin_Barbor: Added Kevin_Barbor to team [herobine]]
+[20:21:03] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:zombie_one']
+[20:21:08] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[20:21:10] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:zombie_one']
+[20:21:12] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:zombie_one']
+[20:21:54] [Server thread/INFO]: koyota609 lost connection: Disconnected
+[20:21:54] [Server thread/INFO]: koyota609 left the game
+[20:24:28] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[20:24:32] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[20:25:35] [Server thread/INFO]: [Kevin_Barbor: Removed 9 member(s) from team [herobine]]
+[20:25:48] [Server thread/INFO]: [Kevin_Barbor: Added Kevin_Barbor to team [herobine]]
+[20:26:09] [Server thread/INFO]: [Kevin_Barbor: Added 2 members to team [herobine]]
+[20:26:17] [Server thread/INFO]: [Kevin_Barbor: Added 2 members to team [herobine]]
+[20:26:32] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[20:27:23] [Server thread/INFO]: Kevin_Barbor fell from a high place
+[20:27:50] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
+[20:27:59] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
+[20:29:02] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:joinherobine']
+[20:31:27] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:joinherobine']
+[20:31:58] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
+[20:31:58] [Server thread/WARN]: Kevin_Barbor moved too quickly! -42.46742681150576,-5.0,-49.89925673102673
+[20:32:15] [Server thread/INFO]: [Kevin_Barbor: Gave 1 [Steak] to Kevin_Barbor]
+[20:34:01] [Server thread/INFO]: AbramsM1 was blown up by Creeper
+[20:34:13] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:joinherobine']
+[20:34:20] [Server thread/INFO]: [Kevin_Barbor: Teleported AbramsM1 to Kevin_Barbor]
+[20:37:03] [Server thread/INFO]: [Kevin_Barbor: Summoned new Bee]
+[20:37:15] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:joinherobine']
+[20:39:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-231, y=87, z=-87} gu{x=-221, y=86, z=-76}
+[20:39:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-231, y=87, z=-87} gu{x=-221, y=86, z=-76}
+[20:39:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-231, y=87, z=-87} gu{x=-221, y=86, z=-76}
+[20:39:43] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[20:40:21] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[20:40:23] [Server thread/INFO]: iNuPun[/26.81.134.76:50600] logged in with entity id 101949 at (6.5, 94.0, 2.5)
+[20:40:23] [Server thread/INFO]: iNuPun joined the game
+[20:40:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-193, y=100, z=-96} gu{x=-192, y=98, z=-92}
+[20:40:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-193, y=100, z=-96} gu{x=-192, y=98, z=-92}
+[20:40:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-193, y=100, z=-96} gu{x=-192, y=98, z=-92}
+[20:40:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-193, y=100, z=-96} gu{x=-192, y=98, z=-92}
+[20:40:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-193, y=100, z=-96} gu{x=-192, y=98, z=-92}
+[20:40:39] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to iNuPun]
+[20:40:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-193, y=100, z=-96} gu{x=-192, y=98, z=-92}
+[20:41:06] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[20:41:31] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[20:41:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-179, y=96, z=-78} gu{x=-184, y=97, z=-79}
+[20:41:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-190, y=97, z=-81} gu{x=-191, y=96, z=-80}
+[20:42:01] [Server thread/INFO]: iNuPun has made the advancement [Monster Hunter]
+[20:42:16] [Server thread/INFO]: [Kevin_Barbor: Removed 15 member(s) from team [herobine]]
+[20:42:26] [Server thread/INFO]: Named entity bwv['enemy'/95576, l='ServerLevel[world]', x=149.71, y=150.00, z=-47.94] died: enemy burned to death
+[20:42:29] [Server thread/INFO]: iNuPun has made the advancement [Stone Age]
+[20:42:29] [Server thread/INFO]: [Kevin_Barbor: Added 3 members to team [Brave]]
+[20:42:34] [Server thread/INFO]: [Kevin_Barbor: Added Kevin_Barbor to team [herobine]]
+[20:43:58] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[20:44:27] [Server thread/INFO]: iNuPun has made the advancement [Getting an Upgrade]
+[20:46:07] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[20:46:17] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[20:46:18] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[20:46:21] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[20:46:24] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[20:46:27] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
+[20:46:47] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[20:47:00] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to iNuPun]
+[20:47:08] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[20:47:22] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[20:47:37] [Server thread/INFO]: Named entity bwv['enemy'/95588, l='ServerLevel[world]', x=147.29, y=150.00, z=-51.05] died: enemy burned to death
+[20:48:25] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[20:48:32] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[20:48:47] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[20:48:56] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[20:49:07] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[20:49:57] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[20:50:19] [Server thread/INFO]: [Kevin_Barbor: Summoned new Spider]
+[20:50:28] [Server thread/INFO]: AbramsM1 fell from a high place
+[20:51:13] [Server thread/INFO]: [Kevin_Barbor: Teleported 7 entities to Kevin_Barbor]
+[20:51:33] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[20:51:58] [Server thread/INFO]: [Not Secure] <iNuPun> 82 71 -95
+[20:52:33] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[20:53:47] [Server thread/INFO]: AbramsM1 was slain by Spider
+[20:54:18] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[20:54:22] [Server thread/INFO]: iNuPun has made the advancement [Acquire Hardware]
+[20:55:15] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[20:56:06] [Server thread/INFO]: [Kevin_Barbor: Teleported 5 entities to Kevin_Barbor]
+[21:01:11] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to iNuPun]
+[21:01:15] [Server thread/INFO]: iNuPun has made the advancement [Not Today, Thank You]
+[21:01:40] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:02:28] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:03:32] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:03:41] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:04:06] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:04:11] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:04:29] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:05:48] [Server thread/WARN]: Kevin_Barbor moved too quickly! 66.30368851954294,-26.62499578337345,-104.3082357815053
+[21:06:02] [Server thread/INFO]: [Kevin_Barbor: Summoned new Vindicator]
+[21:06:17] [Server thread/INFO]: [Kevin_Barbor: Summoned new Vindicator]
+[21:06:30] [Server thread/INFO]: [Kevin_Barbor: Summoned new Vindicator]
+[21:06:46] [Server thread/INFO]: [Kevin_Barbor: Summoned new Vindicator]
+[21:06:46] [Server thread/INFO]: [Kevin_Barbor: Summoned new Vindicator]
+[21:06:59] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pillager]
+[21:07:02] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pillager]
+[21:07:07] [Server thread/WARN]: Kevin_Barbor moved too quickly! -4.7041532878048145,-7.257443745196099,-7.020333592169926
+[21:07:08] [Server thread/WARN]: Kevin_Barbor moved too quickly! 265.89366164387985,-25.0,-25.278709050047183
+[21:07:17] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pillager]
+[21:08:09] [Server thread/INFO]: [Kevin_Barbor: Played sound minecraft:ambient.cave to 3 players]
+[21:09:37] [Server thread/INFO]: ihap_py[/26.203.209.203:53368] logged in with entity id 111819 at (11.699999988079071, 86.0, 29.676487017423103)
+[21:09:37] [Server thread/INFO]: ihap_py joined the game
+[21:10:33] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
+[21:10:46] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
+[21:10:48] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
+[21:11:20] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:13:03] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:13:19] [Server thread/WARN]: Kevin_Barbor moved too quickly! -169.95090822502226,38.48603175457664,93.36909504751145
+[21:13:30] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:14:20] [Server thread/INFO]: ihap_py has made the advancement [Sweet Dreams]
+[21:15:42] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:16:37] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[21:16:38] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[21:16:39] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[21:16:40] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[21:16:40] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[21:16:54] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:17:01] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[21:17:02] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[21:17:47] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:17:51] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:17:54] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:17:56] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:18:00] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:19:08] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:19:16] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:19:26] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:20:08] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:20:30] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:20:58] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:23:13] [Server thread/INFO]: Named entity bwk['enemy 2'/96914, l='ServerLevel[world]', x=147.15, y=150.00, z=-49.91] died: enemy 2 burned to death
+[21:23:51] [Server thread/INFO]: iNuPun has made the advancement [A Seedy Place]
+[21:24:21] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:24:46] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:26:24] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:27:25] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:27:37] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:27:48] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:28:30] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:28:57] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[21:29:12] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[21:29:35] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[21:29:37] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[21:31:12] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[21:32:43] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[21:32:54] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[21:33:03] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[21:33:20] [Server thread/INFO]: [Kevin_Barbor: Summoned new Spider]
+[21:33:54] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:34:09] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[21:36:05] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[21:36:25] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[21:36:47] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:37:11] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:37:56] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:38:12] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:38:17] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:38:37] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:38:45] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:38:56] [Server thread/INFO]: iNuPun was blown up by Creeper
+[21:39:24] [Server thread/INFO]: [Not Secure] <ihap_py> -182.729 / 100
+[21:39:41] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:39:47] [Server thread/INFO]: [Not Secure] <ihap_py> -182.729 / 100.00000 / 74.181
+[21:40:25] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:40:32] [Server thread/INFO]: AbramsM1 was doomed to fall by Creeper
+[21:41:26] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:41:49] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:42:02] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:42:22] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[21:44:27] [Server thread/INFO]: [Kevin_Barbor: Set the weather to rain & thunder]
+[21:44:34] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[21:44:49] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[21:44:53] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[21:45:20] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[21:46:21] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton Horse]
+[21:46:37] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[21:47:00] [Server thread/WARN]: Kevin_Barbor moved too quickly! 31.073938298160442,7.2344987729861,-10.766819236841428
+[21:47:12] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[21:47:25] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[21:47:29] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[21:48:03] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[21:48:06] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[21:48:25] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[21:48:49] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[21:49:19] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[21:49:19] [Server thread/INFO]: AbramsM1 was struck by lightning
+[21:49:49] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[21:50:13] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[21:50:36] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[21:50:46] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[21:50:48] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[21:50:49] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[21:50:51] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[21:51:03] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[21:51:08] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[21:51:21] [Server thread/INFO]: [Kevin_Barbor: Summoned new Witch]
+[21:51:34] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
+[21:51:36] [Server thread/INFO]: [Kevin_Barbor: Summoned new Phantom]
+[21:52:00] [Server thread/INFO]: [Kevin_Barbor: Summoned new Witch]
+[21:52:04] [Server thread/INFO]: iNuPun has made the advancement [Sweet Dreams]
+[21:52:15] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[21:52:28] [Server thread/INFO]: [Kevin_Barbor: Summoned new Spider]
+[21:52:41] [Server thread/INFO]: [Kevin_Barbor: Played sound minecraft:ambient.cave to 4 players]
+[21:53:08] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie Villager]
+[21:53:17] [Server thread/INFO]: ihap_py was slain by Zombie Villager
+[21:53:27] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[21:53:35] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[21:53:41] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[21:53:47] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie Villager]
+[21:54:45] [Server thread/INFO]: [Kevin_Barbor: Summoned new Cow]
+[21:54:46] [Server thread/INFO]: [Kevin_Barbor: Summoned new Cow]
+[21:54:49] [Server thread/INFO]: [Kevin_Barbor: Summoned new Cow]
+[21:54:50] [Server thread/INFO]: [Kevin_Barbor: Summoned new Cow]
+[21:55:01] [Server thread/INFO]: [Kevin_Barbor: Summoned new Sheep]
+[21:55:03] [Server thread/INFO]: [Kevin_Barbor: Summoned new Sheep]
+[21:55:05] [Server thread/INFO]: [Kevin_Barbor: Summoned new Sheep]
+[21:55:20] [Server thread/INFO]: [Kevin_Barbor: Summoned new Bee]
+[21:56:16] [Server thread/INFO]: [Kevin_Barbor: Teleported 4 entities to Kevin_Barbor]
+[21:57:18] [Server thread/INFO]: [Kevin_Barbor: Teleported 2 entities to Kevin_Barbor]
+[21:57:38] [Server thread/INFO]: [Kevin_Barbor: Teleported 2 entities to Kevin_Barbor]
+[21:58:52] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[21:58:59] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[21:59:04] [Server thread/WARN]: Kevin_Barbor moved too quickly! 20.987068431026614,4.205664089269931,-21.581927568639188
+[21:59:34] [Server thread/INFO]: Named entity bwk['enemy 2'/96875, l='ServerLevel[world]', x=-208.45, y=88.00, z=-46.28] died: enemy 2 burned to death
+[21:59:45] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[22:00:05] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[22:00:14] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[22:01:16] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[22:01:36] [Server thread/INFO]: AbramsM1 was blown up by Creeper
+[22:01:38] [Server thread/INFO]: ihap_py has made the advancement [Suit Up]
+[22:02:58] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[22:03:04] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[22:04:09] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[22:05:04] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[22:05:22] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[22:05:31] [Server thread/INFO]: [Kevin_Barbor: Killed Creeper]
+[22:05:53] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[22:06:06] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[22:06:28] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[22:06:48] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[22:07:00] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[22:07:06] [Server thread/INFO]: ihap_py was slain by Zombie
+[22:07:24] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
+[22:08:04] [Server thread/INFO]: [Kevin_Barbor: Teleported 10 entities to Kevin_Barbor]
+[22:08:27] [Server thread/INFO]: [Kevin_Barbor: Teleported 10 entities to Kevin_Barbor]
+[22:08:41] [Server thread/INFO]: [Kevin_Barbor: Teleported 10 entities to Kevin_Barbor]
+[22:09:11] [Server thread/INFO]: [Kevin_Barbor: Teleported 8 entities to Kevin_Barbor]
+[22:09:50] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[22:10:29] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[22:12:45] [Server thread/INFO]: ihap_py lost connection: Disconnected
+[22:12:45] [Server thread/INFO]: ihap_py left the game
+[22:12:47] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[22:12:47] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[22:13:03] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[22:13:20] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[22:13:22] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[22:13:22] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[22:13:29] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
+[22:13:47] [Server thread/INFO]: [Kevin_Barbor: Teleported 10 entities to Kevin_Barbor]
+[22:14:19] [Server thread/INFO]: [Kevin_Barbor: Teleported 2 entities to Kevin_Barbor]
+[22:14:29] [Server thread/WARN]: Kevin_Barbor moved too quickly! -3.4922705604955127,-13.203808587163223,12.898280028601349
+[22:15:13] [Server thread/INFO]: iNuPun lost connection: Disconnected
+[22:15:13] [Server thread/INFO]: iNuPun left the game
+[22:16:10] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[22:17:03] [Server thread/INFO]: Kevin_Barbor lost connection: Disconnected
+[22:17:03] [Server thread/INFO]: Kevin_Barbor left the game
+[22:17:16] [Server thread/INFO]: AbramsM1 lost connection: Disconnected
+[22:17:16] [Server thread/INFO]: AbramsM1 left the game
+[22:17:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:17:46] [Server thread/INFO]: hlep<--[HERE]
+[22:17:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:17:54] [Server thread/INFO]: hlep<--[HERE]
+[22:18:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:18:38] [Server thread/INFO]: save_all<--[HERE]
+[22:19:21] [Server thread/INFO]: /advancement (grant|revoke)
+[22:19:21] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[22:19:21] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[22:19:21] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[22:19:21] [Server thread/INFO]: /clear [<targets>]
+[22:19:21] [Server thread/INFO]: /clone (<begin>|from)
+[22:19:21] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[22:19:21] [Server thread/INFO]: /data (merge|get|remove|modify)
+[22:19:21] [Server thread/INFO]: /datapack (enable|disable|list)
+[22:19:21] [Server thread/INFO]: /debug (start|stop|function)
+[22:19:21] [Server thread/INFO]: /defaultgamemode <gamemode>
+[22:19:21] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[22:19:21] [Server thread/INFO]: /effect (clear|give)
+[22:19:21] [Server thread/INFO]: /me <action>
+[22:19:21] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[22:19:21] [Server thread/INFO]: /experience (add|set|query)
+[22:19:21] [Server thread/INFO]: /xp -> experience
+[22:19:21] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[22:19:21] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[22:19:21] [Server thread/INFO]: /forceload (add|remove|query)
+[22:19:21] [Server thread/INFO]: /function <name>
+[22:19:21] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[22:19:21] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[22:19:21] [Server thread/INFO]: /give <targets> <item> [<count>]
+[22:19:21] [Server thread/INFO]: /help [<command>]
+[22:19:21] [Server thread/INFO]: /item (replace|modify)
+[22:19:21] [Server thread/INFO]: /kick <targets> [<reason>]
+[22:19:21] [Server thread/INFO]: /kill [<targets>]
+[22:19:21] [Server thread/INFO]: /list [uuids]
+[22:19:21] [Server thread/INFO]: /locate (structure|biome|poi)
+[22:19:21] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[22:19:21] [Server thread/INFO]: /msg <targets> <message>
+[22:19:21] [Server thread/INFO]: /tell -> msg
+[22:19:21] [Server thread/INFO]: /w -> msg
+[22:19:21] [Server thread/INFO]: /particle <name> [<pos>]
+[22:19:21] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[22:19:21] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[22:19:21] [Server thread/INFO]: /reload
+[22:19:21] [Server thread/INFO]: /recipe (give|take)
+[22:19:21] [Server thread/INFO]: /return <value>
+[22:19:21] [Server thread/INFO]: /ride <target> (mount|dismount)
+[22:19:21] [Server thread/INFO]: /say <message>
+[22:19:21] [Server thread/INFO]: /schedule (function|clear)
+[22:19:21] [Server thread/INFO]: /scoreboard (objectives|players)
+[22:19:21] [Server thread/INFO]: /seed
+[22:19:21] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[22:19:21] [Server thread/INFO]: /spawnpoint [<targets>]
+[22:19:21] [Server thread/INFO]: /setworldspawn [<pos>]
+[22:19:21] [Server thread/INFO]: /spectate [<target>]
+[22:19:21] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[22:19:21] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[22:19:21] [Server thread/INFO]: /summon <entity> [<pos>]
+[22:19:21] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[22:19:21] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[22:19:21] [Server thread/INFO]: /teammsg <message>
+[22:19:21] [Server thread/INFO]: /tm -> teammsg
+[22:19:21] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[22:19:21] [Server thread/INFO]: /tp -> teleport
+[22:19:21] [Server thread/INFO]: /tellraw <targets> <message>
+[22:19:21] [Server thread/INFO]: /time (set|add|query)
+[22:19:21] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[22:19:21] [Server thread/INFO]: /trigger <objective> [add|set]
+[22:19:21] [Server thread/INFO]: /weather (clear|rain|thunder)
+[22:19:21] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[22:19:21] [Server thread/INFO]: /jfr (start|stop)
+[22:19:21] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[22:19:21] [Server thread/INFO]: /banlist [ips|players]
+[22:19:21] [Server thread/INFO]: /ban <targets> [<reason>]
+[22:19:21] [Server thread/INFO]: /deop <targets>
+[22:19:21] [Server thread/INFO]: /op <targets>
+[22:19:21] [Server thread/INFO]: /pardon <targets>
+[22:19:21] [Server thread/INFO]: /pardon-ip <target>
+[22:19:21] [Server thread/INFO]: /perf (start|stop)
+[22:19:21] [Server thread/INFO]: /save-all [flush]
+[22:19:21] [Server thread/INFO]: /save-off
+[22:19:21] [Server thread/INFO]: /save-on
+[22:19:21] [Server thread/INFO]: /setidletimeout <minutes>
+[22:19:21] [Server thread/INFO]: /stop
+[22:19:21] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[22:19:30] [Server thread/INFO]: Saving the game (this may take a moment!)
+[22:19:30] [Server thread/INFO]: Saved the game
+[22:19:39] [Server thread/INFO]: Stopping the server
+[22:19:39] [Server thread/INFO]: Stopping server
+[22:19:39] [Server thread/INFO]: Saving players
+[22:19:39] [Server thread/INFO]: Saving worlds
+[22:19:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:19:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:19:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:19:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:19:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:19:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:19:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
