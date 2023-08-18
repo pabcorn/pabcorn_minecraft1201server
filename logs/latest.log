@@ -1,119 +1,318 @@
-[22:55:41] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:55:45] [ServerMain/INFO]: Loaded 7 recipes
-[22:55:45] [ServerMain/INFO]: Loaded 1271 advancements
-[22:55:46] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[22:55:46] [Server thread/INFO]: Loading properties
-[22:55:46] [Server thread/INFO]: Default game type: SURVIVAL
-[22:55:46] [Server thread/INFO]: Generating keypair
-[22:55:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:55:46] [Server thread/INFO]: Using default channel type
-[22:55:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:55:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:55:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:55:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:55:47] [Server thread/INFO]: Preparing level "world"
-[22:55:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:56:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:56:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:56:03] [Worker-Main-3/INFO]: Preparing spawn area: 16%
-[22:56:04] [Worker-Main-1/INFO]: Preparing spawn area: 56%
-[22:56:04] [Server thread/INFO]: Time elapsed: 12593 ms
-[22:56:04] [Server thread/INFO]: Done (17.264s)! For help, type "help"
-[22:56:28] [Server thread/INFO]: Kevin_Barbor[/127.0.0.1:64952] logged in with entity id 173 at (-181.16622537397808, 96.73212320305889, -63.689375552315504)
-[22:56:28] [Server thread/INFO]: Kevin_Barbor joined the game
-[22:56:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[22:56:54] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
-[22:57:07] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[22:57:11] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[22:58:00] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[22:58:33] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
-[22:58:44] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
-[22:59:04] [Server thread/INFO]: [Kevin_Barbor: Gamerule doDaylightCycle is now set to: false]
-[22:59:11] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
-[22:59:22] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[22:59:46] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[23:00:21] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[23:01:42] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[23:02:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
-[23:03:11] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[23:06:09] [Server thread/WARN]: Kevin_Barbor moved too quickly! 10.697307954203609,0.0,0.42923088673124
-[23:07:22] [Server thread/INFO]: Kevin_Barbor was killed
-[23:07:22] [Server thread/INFO]: [Kevin_Barbor: Killed Kevin_Barbor]
-[23:08:12] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
-[23:08:34] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[23:09:21] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
-[23:09:27] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
-[23:09:35] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[23:09:57] [Server thread/INFO]: [Kevin_Barbor: Removed 44 member(s) from team [herobine]]
-[23:10:03] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[23:10:32] [Server thread/INFO]: [Kevin_Barbor: Applied effect Night Vision to Kevin_Barbor]
-[23:11:04] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[23:11:11] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[23:13:30] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
-[23:13:34] [Server thread/INFO]: Kevin_Barbor was slain by Zombie
-[23:13:43] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[23:14:16] [Server thread/INFO]: [Kevin_Barbor: Applied effect Night Vision to Kevin_Barbor]
-[23:14:33] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[23:16:11] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[23:16:17] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
-[23:16:45] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[23:18:17] [Server thread/INFO]: Kevin_Barbor has made the advancement [Sneak 100]
-[23:18:54] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[23:20:13] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
-[23:20:57] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[23:21:06] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[23:21:19] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[23:21:52] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[23:22:03] [Server thread/INFO]: [Kevin_Barbor: Summoned new Warden]
-[23:22:06] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[23:22:49] [Server thread/INFO]: [Kevin_Barbor: Removed every effect from Kevin_Barbor]
-[23:23:16] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[23:23:43] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
-[23:24:14] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
-[23:24:21] [Server thread/INFO]: [Kevin_Barbor: Summoned new Skeleton]
-[23:24:42] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
-[23:24:44] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
-[23:24:54] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
-[23:24:56] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
-[23:25:50] [Server thread/INFO]: [Kevin_Barbor: Summoned new Sheep]
-[23:26:40] [Server thread/INFO]: [Kevin_Barbor: Summoned new Sheep]
-[23:27:00] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
-[23:27:22] [Server thread/INFO]: [Kevin_Barbor: Summoned new Iron Golem]
-[23:27:59] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[23:29:13] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie Villager]
-[23:31:41] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[23:31:56] [Server thread/INFO]: [Kevin_Barbor: Gamerule doDaylightCycle is now set to: true]
-[23:31:58] [Server thread/INFO]: [Kevin_Barbor: Stopping the server]
-[23:31:58] [Server thread/INFO]: Stopping server
-[23:31:58] [Server thread/INFO]: Saving players
-[23:31:58] [Server thread/INFO]: Kevin_Barbor lost connection: Disconnected
-[23:31:58] [Server thread/INFO]: Kevin_Barbor left the game
-[23:31:58] [Server thread/INFO]: Saving worlds
-[23:31:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:31:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:31:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:31:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:31:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:31:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:31:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:22:36] [ServerMain/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
+[16:22:36] [ServerMain/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
+[16:22:36] [ServerMain/WARN]: Disabling further attempts to query Paging File.
+[16:22:38] [ServerMain/WARN]: COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
+[16:22:44] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:22:47] [ServerMain/INFO]: Loaded 7 recipes
+[16:22:47] [ServerMain/INFO]: Loaded 1271 advancements
+[16:22:48] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[16:22:48] [Server thread/INFO]: Loading properties
+[16:22:48] [Server thread/INFO]: Default game type: SURVIVAL
+[16:22:48] [Server thread/INFO]: Generating keypair
+[16:22:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:22:49] [Server thread/INFO]: Using default channel type
+[16:22:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:22:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:22:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:22:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:22:49] [Server thread/INFO]: Preparing level "world"
+[16:22:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:22:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:22:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:22:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:22:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:22:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:22:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:22:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:22:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:22:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:22:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:22:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:22:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:22:58] [Worker-Main-2/INFO]: Preparing spawn area: 19%
+[16:22:58] [Worker-Main-3/INFO]: Preparing spawn area: 86%
+[16:22:58] [Server thread/INFO]: Time elapsed: 6767 ms
+[16:22:58] [Server thread/INFO]: Done (9.693s)! For help, type "help"
+[16:25:42] [Server thread/INFO]: AbramsM1[/127.0.0.1:52521] logged in with entity id 241 at (-186.2530135680105, 96.0, -75.23774411493571)
+[16:25:42] [Server thread/INFO]: AbramsM1 joined the game
+[16:25:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[17:51:47] [Server thread/INFO]: Kevin_Barbor[/26.246.11.39:54862] logged in with entity id 12178 at (-23.784536461761974, -9.755667899562543, 1.736536840255711)
+[17:51:47] [Server thread/INFO]: Kevin_Barbor joined the game
+[17:51:58] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
+[17:52:23] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[17:55:26] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[17:57:12] [Server thread/INFO]: [Kevin_Barbor: Applied effect Slow Falling to Kevin_Barbor]
+[17:58:21] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[17:58:54] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[17:59:17] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[18:00:17] [Server thread/INFO]: [Kevin_Barbor: Gave 3 [Block of Coal] to Kevin_Barbor]
+[18:02:09] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
+[18:02:26] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:zombie_one']
+[18:02:41] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:skeleton_one']
+[18:02:53] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[18:04:54] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:zombie_one']
+[18:05:34] [Server thread/INFO]: LuckyFivenight[/26.56.88.114:55815] logged in with entity id 16972 at (10.726444724070582, 91.0, 29.706955024917757)
+[18:05:34] [Server thread/INFO]: LuckyFivenight joined the game
+[18:05:47] [Server thread/INFO]: [Kevin_Barbor: Added 3babdaa5-940a-432d-b542-3bb5d26691c9 to team [Brave]]
+[18:07:19] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[18:07:40] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[18:07:44] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to LuckyFivenight]
+[18:07:52] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[18:08:00] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[18:08:25] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:zombie_one']
+[18:08:29] [Server thread/INFO]: LuckyFivenight lost connection: Disconnected
+[18:08:29] [Server thread/INFO]: LuckyFivenight left the game
+[18:09:09] [Server thread/INFO]: [Kevin_Barbor: Killed Zombie]
+[18:09:18] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[18:09:22] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
+[18:09:58] [Server thread/INFO]: [Kevin_Barbor: Teleported 4 entities to Kevin_Barbor]
+[18:10:01] [Server thread/INFO]: LuckyFivenight[/26.56.88.114:55962] logged in with entity id 18506 at (-107.0631770630721, 111.0, -44.999716438016364)
+[18:10:01] [Server thread/INFO]: LuckyFivenight joined the game
+[18:10:10] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to LuckyFivenight]
+[18:10:10] [Server thread/WARN]: Kevin_Barbor moved too quickly! 104.45333295442624,59.126035929173014,74.04302799893986
+[18:10:21] [Server thread/INFO]: [Kevin_Barbor: Summoned new Wolf]
+[18:10:33] [Server thread/INFO]: [Kevin_Barbor: Summoned new Wolf]
+[18:10:39] [Server thread/INFO]: [Kevin_Barbor: Summoned new Wolf]
+[18:11:16] [Server thread/INFO]: [Kevin_Barbor: Teleported 4 entities to Kevin_Barbor]
+[18:11:35] [Server thread/INFO]: [Kevin_Barbor: Teleported 4 entities to Kevin_Barbor]
+[18:12:03] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[18:12:10] [Server thread/INFO]: [Kevin_Barbor: Added 3 members to team [Brave]]
+[18:12:12] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[18:12:27] [Server thread/WARN]: Kevin_Barbor moved too quickly! 4.847931133359282,-12.36343066264245,28.25560812359862
+[18:12:27] [Server thread/WARN]: Kevin_Barbor moved too quickly! 19.257424064855655,53.0,22.55105939433294
+[18:12:40] [Server thread/INFO]: [Kevin_Barbor: Summoned new Spider]
+[18:12:58] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[18:13:04] [Server thread/INFO]: [Kevin_Barbor: Teleported 3 entities to Kevin_Barbor]
+[18:13:06] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[18:13:24] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[18:14:00] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[18:14:24] [Server thread/WARN]: Kevin_Barbor moved too quickly! 35.23829438437099,54.750144145965095,-2.6823557166522107
+[18:15:11] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:creeper_speed']
+[18:15:27] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:creeper_speed']
+[18:15:59] [Server thread/INFO]: [Kevin_Barbor: Summoned new Sheep]
+[18:16:27] [Server thread/INFO]: [Kevin_Barbor: Summoned new Sheep]
+[18:16:30] [Server thread/INFO]: [Kevin_Barbor: Summoned new Sheep]
+[18:16:51] [Server thread/INFO]: [Kevin_Barbor: Summoned new Spider]
+[18:17:37] [Server thread/INFO]: [Kevin_Barbor: Summoned new Wandering Trader]
+[18:17:44] [Server thread/INFO]: [Kevin_Barbor: Summoned new Trader Llama]
+[18:17:46] [Server thread/INFO]: [Kevin_Barbor: Summoned new Trader Llama]
+[18:17:56] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[18:18:09] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[18:18:41] [Server thread/INFO]: LuckyFivenight has made the advancement [Best Friends Forever]
+[18:18:48] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[18:20:34] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[18:20:37] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[18:21:30] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[18:22:33] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[18:23:11] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to LuckyFivenight]
+[18:23:28] [Server thread/INFO]: Named entity bwv['henchman'/16154, l='ServerLevel[world]', x=149.90, y=150.00, z=-48.83] died: henchman burned to death
+[18:23:33] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to AbramsM1]
+[18:23:42] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to AbramsM1]
+[18:23:59] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to LuckyFivenight]
+[18:24:07] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to AbramsM1]
+[18:24:11] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to AbramsM1]
+[18:24:16] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to AbramsM1]
+[18:24:46] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:spider_jockey']
+[18:25:41] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[18:26:00] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[18:26:06] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[18:26:31] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[18:26:37] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[18:26:49] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[18:27:26] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:creeper_speed']
+[18:27:31] [Server thread/INFO]: LuckyFivenight was blown up by Creeper
+[18:27:55] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[18:28:17] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[18:28:45] [Server thread/WARN]: Kevin_Barbor moved too quickly! 34.71287630867394,44.0,69.60150341371231
+[18:29:06] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[18:29:17] [Server thread/INFO]: AbramsM1 was blown up by Creeper
+[18:30:00] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[18:30:06] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[18:30:17] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[18:30:24] [Server thread/WARN]: Kevin_Barbor moved too quickly! -3.7856915123714145,-49.864155867318885,10.119132233515813
+[18:31:05] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:spider_jockey']
+[18:31:52] [Server thread/INFO]: AbramsM1 has made the advancement [Sneak 100]
+[18:32:39] [Server thread/INFO]: [Kevin_Barbor: Teleported 6 entities to Kevin_Barbor]
+[18:33:05] [Server thread/INFO]: [Kevin_Barbor: Summoned new Witch]
+[18:33:53] [Server thread/INFO]: [Kevin_Barbor: Summoned new Potion]
+[18:34:48] [Server thread/WARN]: Kevin_Barbor moved too quickly! -2.9207376497123505,50.19870326936226,-24.850264125990364
+[18:34:54] [Server thread/INFO]: [Kevin_Barbor: Summoned new Potion]
+[18:35:02] [Server thread/INFO]: [Kevin_Barbor: Summoned new Potion]
+[18:35:06] [Server thread/INFO]: [Kevin_Barbor: Summoned new Potion]
+[18:35:09] [Server thread/INFO]: [Kevin_Barbor: Summoned new Potion]
+[18:35:12] [Server thread/INFO]: [Kevin_Barbor: Summoned new Potion]
+[18:35:14] [Server thread/INFO]: [Kevin_Barbor: Summoned new Potion]
+[18:35:19] [Server thread/WARN]: Kevin_Barbor moved too quickly! 12.973230931001751,-44.66610901988233,-13.190412014060811
+[18:35:21] [Server thread/INFO]: [Kevin_Barbor: Summoned new Potion]
+[18:35:23] [Server thread/INFO]: [Kevin_Barbor: Summoned new Potion]
+[18:35:24] [Server thread/INFO]: [Kevin_Barbor: Summoned new Potion]
+[18:35:32] [Server thread/INFO]: [Kevin_Barbor: Summoned new Potion]
+[18:35:32] [Server thread/INFO]: [Kevin_Barbor: Summoned new Potion]
+[18:35:33] [Server thread/INFO]: [Kevin_Barbor: Summoned new Potion]
+[18:35:50] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[18:36:06] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[18:36:20] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[18:36:27] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[18:36:57] [Server thread/INFO]: [Kevin_Barbor: Added 3 members to team [Brave]]
+[18:38:45] [Server thread/INFO]: RabPhii[/26.157.186.243:49825] logged in with entity id 24678 at (13.05922180791361, 86.0, 21.02248452977774)
+[18:38:45] [Server thread/INFO]: RabPhii joined the game
+[18:39:28] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[18:39:51] [Server thread/INFO]: [Kevin_Barbor: Teleported RabPhii to LuckyFivenight]
+[18:40:15] [Server thread/INFO]: [Kevin_Barbor: Added 4 members to team [Brave]]
+[18:40:18] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[18:40:22] [Server thread/INFO]: [Kevin_Barbor: Summoned new Fred]
+[18:41:30] [Server thread/INFO]: Named entity bvs['Fred'/25060, l='ServerLevel[world]', x=-180.50, y=100.00, z=-72.64] died: Fred was killed
+[18:41:30] [Server thread/INFO]: [Kevin_Barbor: Killed Fred]
+[18:41:46] [Server thread/INFO]: [Kevin_Barbor: Summoned new Fred]
+[18:45:44] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[18:47:07] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[18:47:26] [Server thread/INFO]: RabPhii lost connection: Disconnected
+[18:47:26] [Server thread/INFO]: RabPhii left the game
+[18:47:58] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[18:48:09] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[18:48:26] [Server thread/INFO]: RabPhii[/26.157.186.243:50409] logged in with entity id 26444 at (-202.2884060689554, 93.162141421027, -66.43696915276254)
+[18:48:26] [Server thread/INFO]: RabPhii joined the game
+[18:48:32] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[18:48:54] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[18:49:00] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[18:49:08] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[18:49:55] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[18:50:05] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[18:50:24] [Server thread/INFO]: RabPhii fell from a high place
+[18:52:20] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[18:52:59] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[18:53:17] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[18:53:22] [Server thread/INFO]: Kevin_Barbor has made the advancement [Take Aim]
+[18:53:22] [Server thread/INFO]: Kevin_Barbor was slain by RabPhii
+[18:53:39] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[18:53:45] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to RabPhii]
+[18:54:04] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
+[18:54:08] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
+[18:54:12] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[18:54:13] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
+[18:54:33] [Server thread/INFO]: Named entity bvs['Fred'/25300, l='ServerLevel[world]', x=-208.01, y=28.90, z=-67.28] died: Fred was slain by Kevin_Barbor
+[18:54:51] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[18:54:53] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
+[18:55:01] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[18:55:11] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
+[18:55:18] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[18:55:21] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[18:55:57] [Server thread/INFO]: [Kevin_Barbor: Gave 1 [Lead] to Kevin_Barbor]
+[18:56:11] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[18:56:22] [Server thread/INFO]: [Kevin_Barbor: Killed Warden]
+[18:58:00] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[18:58:17] [Server thread/INFO]: [Kevin_Barbor: Summoned new Slime]
+[18:58:20] [Server thread/INFO]: [Kevin_Barbor: Summoned new Slime]
+[18:58:25] [Server thread/INFO]: [Kevin_Barbor: Summoned new Slime]
+[18:58:28] [Server thread/INFO]: [Kevin_Barbor: Summoned new Slime]
+[18:58:52] [Server thread/INFO]: [Kevin_Barbor: Summoned new Warden]
+[18:59:22] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[18:59:24] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
+[18:59:40] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[19:00:14] [Server thread/INFO]: [Kevin_Barbor: Gave 3 [Steak] to Kevin_Barbor]
+[19:01:04] [Server thread/INFO]: [Kevin_Barbor: Gave 1 [Axolotl Spawn Egg] to Kevin_Barbor]
+[19:01:17] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[19:01:45] [Server thread/INFO]: LuckyFivenight was slain by Zombie
+[19:03:55] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[19:04:24] [Server thread/INFO]: [Kevin_Barbor: Teleported 7 entities to Kevin_Barbor]
+[19:04:27] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[19:04:47] [Server thread/INFO]: [Kevin_Barbor: Teleported 7 entities to Kevin_Barbor]
+[19:04:49] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[19:05:09] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:skeleton_one']
+[19:05:13] [Server thread/INFO]: RabPhii was shot by Skeleton
+[19:05:39] [Server thread/INFO]: [Kevin_Barbor: Gave 10 [Bottle o' Enchanting] to RabPhii]
+[19:06:40] [Server thread/INFO]: [Kevin_Barbor: Teleported Warden to Kevin_Barbor]
+[19:06:46] [Server thread/INFO]: [Kevin_Barbor: Killed Warden]
+[19:06:54] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[19:08:16] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[19:08:20] [Server thread/INFO]: [Kevin_Barbor: Set the weather to rain]
+[19:08:31] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[19:08:42] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[19:09:10] [Server thread/INFO]: [Kevin_Barbor: Summoned new Villager]
+[19:09:27] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[19:09:27] [Server thread/INFO]: Villager byb['Villager'/31891, l='ServerLevel[world]', x=-198.29, y=94.17, z=-70.13] was struck by lightning bfy['Lightning Bolt'/31951, l='ServerLevel[world]', x=-198.30, y=93.75, z=-70.04].
+[19:09:31] [Server thread/INFO]: Named entity bwk['henchman'/16227, l='ServerLevel[world]', x=-264.37, y=87.00, z=-129.70] died: henchman was shot by RabPhii
+[19:10:04] [Server thread/INFO]: [Kevin_Barbor: Summoned new Salmon]
+[19:10:06] [Server thread/INFO]: [Kevin_Barbor: Summoned new Salmon]
+[19:10:08] [Server thread/INFO]: [Kevin_Barbor: Summoned new Salmon]
+[19:10:09] [Server thread/INFO]: [Kevin_Barbor: Summoned new Salmon]
+[19:10:09] [Server thread/INFO]: [Kevin_Barbor: Summoned new Salmon]
+[19:10:16] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[19:10:22] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[19:10:39] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[19:10:56] [Server thread/INFO]: [Kevin_Barbor: Summoned new Chicken]
+[19:10:57] [Server thread/INFO]: [Kevin_Barbor: Summoned new Chicken]
+[19:10:58] [Server thread/INFO]: [Kevin_Barbor: Summoned new Chicken]
+[19:11:19] [Server thread/INFO]: [Kevin_Barbor: Summoned new Chicken]
+[19:11:30] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[19:11:39] [Server thread/INFO]: [Kevin_Barbor: Summoned new Lightning Bolt]
+[19:12:05] [Server thread/INFO]: Kevin_Barbor was killed
+[19:12:05] [Server thread/INFO]: [Kevin_Barbor: Killed Kevin_Barbor]
+[19:12:43] [Server thread/INFO]: [Kevin_Barbor: Summoned new Fox]
+[19:12:53] [Server thread/INFO]: [Kevin_Barbor: Summoned new Fox]
+[19:12:58] [Server thread/INFO]: [Kevin_Barbor: Summoned new Fox]
+[19:13:07] [Server thread/INFO]: [Kevin_Barbor: Summoned new Fox]
+[19:13:38] [Server thread/INFO]: [Kevin_Barbor: Killed 3 entities]
+[19:13:45] [Server thread/INFO]: [Kevin_Barbor: Killed 3 entities]
+[19:14:13] [Server thread/INFO]: [Kevin_Barbor: Set the weather to clear]
+[19:14:23] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:14:52] [Server thread/INFO]: [Kevin_Barbor: Summoned new Creeper]
+[19:15:46] [Server thread/INFO]: [Kevin_Barbor: Summoned new Slime]
+[19:15:47] [Server thread/INFO]: [Kevin_Barbor: Summoned new Slime]
+[19:15:48] [Server thread/INFO]: [Kevin_Barbor: Summoned new Slime]
+[19:15:49] [Server thread/INFO]: [Kevin_Barbor: Summoned new Slime]
+[19:15:56] [Server thread/INFO]: [Kevin_Barbor: Summoned new Slime]
+[19:15:57] [Server thread/INFO]: [Kevin_Barbor: Summoned new Slime]
+[19:15:57] [Server thread/INFO]: [Kevin_Barbor: Summoned new Slime]
+[19:16:13] [Server thread/INFO]: [Kevin_Barbor: Summoned new Slime]
+[19:16:51] [Server thread/INFO]: LuckyFivenight lost connection: Disconnected
+[19:16:51] [Server thread/INFO]: LuckyFivenight left the game
+[19:16:57] [Server thread/WARN]: Kevin_Barbor moved too quickly! 13.354827647175398,3.191405827632586,-14.931629705004795
+[19:17:04] [Server thread/WARN]: Kevin_Barbor moved too quickly! -13.483043199478942,-3.6780020341764015,-11.933928323133145
+[19:17:21] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[19:18:01] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[19:18:13] [Server thread/INFO]: [Kevin_Barbor: Summoned new Pig]
+[19:18:22] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[19:18:30] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[19:18:46] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
+[19:19:00] [Server thread/WARN]: Kevin_Barbor moved too quickly! -35.72878844993042,-57.32265224822801,-48.52126588344621
+[19:19:04] [Server thread/INFO]: RabPhii lost connection: Disconnected
+[19:19:04] [Server thread/INFO]: RabPhii left the game
+[19:19:46] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[19:27:53] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:zombie_one']
+[19:28:01] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
+[19:28:10] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[19:28:46] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[19:31:52] [Server thread/INFO]: [Kevin_Barbor: Killed 10 entities]
+[19:32:41] [Server thread/INFO]: [Kevin_Barbor: Killed 10 entities]
+[19:32:43] [Server thread/INFO]: Named entity bwv['Chakulzaaaaaa'/26365, l='ServerLevel[world]', x=-207.71, y=29.39, z=-67.27] died: Chakulzaaaaaa was killed
+[19:32:43] [Server thread/INFO]: [Kevin_Barbor: Killed 10 entities]
+[19:32:48] [Server thread/INFO]: [Kevin_Barbor: Killed 10 entities]
+[19:34:17] [Server thread/INFO]: [Kevin_Barbor: Killed 10 entities]
+[19:35:28] [Server thread/INFO]: [Kevin_Barbor: Killed 10 entities]
+[19:38:27] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
+[19:38:42] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
+[19:39:00] [Server thread/INFO]: [Kevin_Barbor: Killed 10 entities]
+[19:40:02] [Server thread/INFO]: [Kevin_Barbor: Killed Chicken]
+[19:42:01] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[19:43:04] [Server thread/INFO]: Kevin_Barbor lost connection: Disconnected
+[19:43:04] [Server thread/INFO]: Kevin_Barbor left the game
+[19:43:15] [Server thread/INFO]: Kevin_Barbor[/26.246.11.39:55358] logged in with entity id 38608 at (-252.73763871834353, 20.0, 95.1975076427769)
+[19:43:15] [Server thread/INFO]: Kevin_Barbor joined the game
+[19:44:54] [Server thread/INFO]: Kevin_Barbor lost connection: Disconnected
+[19:44:54] [Server thread/INFO]: Kevin_Barbor left the game
+[20:50:13] [Server thread/INFO]: AbramsM1 lost connection: Disconnected
+[20:50:13] [Server thread/INFO]: AbramsM1 left the game
+[20:52:19] [Server thread/INFO]: Saving the game (this may take a moment!)
+[20:52:19] [Server thread/INFO]: Saved the game
+[20:52:27] [Server thread/INFO]: Stopping the server
+[20:52:27] [Server thread/INFO]: Stopping server
+[20:52:27] [Server thread/INFO]: Saving players
+[20:52:27] [Server thread/INFO]: Saving worlds
+[20:52:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:52:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:52:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:52:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:52:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:52:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:52:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
