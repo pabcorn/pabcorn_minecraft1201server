@@ -10,6 +10,7 @@
       "minecraft:eroded_badlands": "2023-08-17 19:14:22 +0700",
       "minecraft:savanna_plateau": "2023-08-17 19:14:04 +0700",
       "minecraft:stony_peaks": "2023-08-17 19:14:47 +0700",
+      "minecraft:river": "2023-08-19 20:56:32 +0700",
       "minecraft:forest": "2023-08-17 18:47:58 +0700",
       "minecraft:savanna": "2023-08-17 19:12:43 +0700",
       "minecraft:plains": "2023-08-17 18:58:20 +0700"
@@ -954,8 +955,12 @@
       "minecraft:skeleton": "2023-08-17 19:23:58 +0700",
       "minecraft:spider": "2023-08-17 19:23:26 +0700",
       "minecraft:creeper": "2023-08-17 19:20:09 +0700",
+      "minecraft:slime": "2023-08-19 20:46:30 +0700",
+      "minecraft:phantom": "2023-08-19 20:49:21 +0700",
       "minecraft:husk": "2023-08-17 19:39:46 +0700",
-      "minecraft:zombie": "2023-08-17 19:36:50 +0700"
+      "minecraft:zombie": "2023-08-17 19:36:50 +0700",
+      "minecraft:drowned": "2023-08-19 21:07:01 +0700",
+      "minecraft:zombie_villager": "2023-08-19 20:45:30 +0700"
     },
     "done": false
   },
@@ -1139,9 +1144,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_the_recipe": "2023-08-17 20:14:04 +0700"
+      "shot_arrow": "2023-08-17 20:09:31 +0700"
     },
     "done": true
   },
@@ -1151,9 +1156,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "shot_arrow": "2023-08-17 20:09:31 +0700"
+      "has_the_recipe": "2023-08-17 20:14:04 +0700"
     },
     "done": true
   },
@@ -1166,6 +1171,114 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2023-08-17 20:14:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-08-19 20:48:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2023-08-19 20:48:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-08-19 20:48:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2023-08-19 20:52:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2023-08-19 20:52:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2023-08-19 20:58:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2023-08-19 21:03:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2023-08-19 21:03:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-08-19 21:08:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2023-08-19 21:08:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-08-19 21:08:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2023-08-19 21:08:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-08-19 21:08:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-08-19 21:08:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2023-08-19 21:08:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2023-08-19 21:08:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-08-19 21:08:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-08-19 21:08:46 +0700"
     },
     "done": true
   },
