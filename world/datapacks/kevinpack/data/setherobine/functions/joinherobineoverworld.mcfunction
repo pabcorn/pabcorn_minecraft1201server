@@ -22,4 +22,5 @@ team join herobine @e[type=minecraft:phantom,limit=50,sort=nearest]
 team join herobine @e[type=minecraft:zoglin,limit=50,sort=nearest]
 team join herobine @e[type=minecraft:phantom,limit=50,sort=nearest]
 team join herobine @e[type=minecraft:warden,limit=50,sort=nearest]
+
 team join herobine Kevin_Barbor
