@@ -1042,6 +1042,7 @@
       "rotten_flesh": "2023-08-17 23:31:24 +0700",
       "cookie": "2023-08-20 00:50:39 +0700",
       "glow_berries": "2023-08-18 19:28:23 +0700",
+      "cooked_chicken": "2023-08-20 22:29:47 +0700",
       "carrot": "2023-08-19 22:15:15 +0700"
     },
     "done": false
@@ -2249,21 +2250,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
-      "has_bricks": "2023-08-20 01:03:17 +0700"
+      "has_log": "2023-08-19 23:56:12 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs": {
+  "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
-      "has_bricks": "2023-08-20 01:03:17 +0700"
+      "has_stripped_logs": "2023-08-19 23:56:12 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_lapis_lazuli": "2023-08-20 00:02:21 +0700"
+      "has_wood_slab": "2023-08-19 23:58:46 +0700"
     },
     "done": true
   },
@@ -2272,36 +2273,6 @@
       "has_potato": "2023-08-19 23:59:37 +0700"
     },
     "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2023-08-20 00:02:21 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2023-08-20 01:03:17 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2023-08-20 00:07:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2023-08-20 01:11:53 +0700"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:chicken": "2023-08-20 01:56:16 +0700"
-    },
-    "done": false
   },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
@@ -2315,15 +2286,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "minecraft:recipes/misc/blue_dye": {
     "criteria": {
-      "has_gold_nugget": "2023-08-20 01:54:24 +0700"
+      "has_lapis_lazuli": "2023-08-20 00:02:21 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
-      "has_bricks": "2023-08-20 01:03:17 +0700"
+      "has_lapis_lazuli": "2023-08-20 00:02:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2023-08-20 00:07:36 +0700"
     },
     "done": true
   },
@@ -2333,15 +2310,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "has_wood_slab": "2023-08-19 23:58:46 +0700"
+      "has_obsidian": "2023-08-20 00:07:36 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
+  "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
-      "has_item_frame": "2023-08-20 01:30:16 +0700"
+      "has_bricks": "2023-08-20 01:03:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2023-08-20 01:03:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2023-08-20 01:03:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2023-08-20 01:03:17 +0700"
     },
     "done": true
   },
@@ -2351,9 +2346,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2023-08-20 01:03:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-08-20 01:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2023-08-20 01:30:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2023-08-20 01:31:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2023-08-20 01:54:24 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2023-08-20 01:54:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2023-08-20 01:56:16 +0700"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2023-08-20 01:56:16 +0700"
     },
     "done": true
   },
@@ -2363,9 +2400,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
-      "has_bricks": "2023-08-20 01:03:17 +0700"
+      "has_allium": "2023-08-20 01:58:44 +0700"
     },
     "done": true
   },
@@ -2381,39 +2418,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_log": "2023-08-19 23:56:12 +0700"
+      "has_kelp": "2023-08-20 22:27:41 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
-      "has_stripped_logs": "2023-08-19 23:56:12 +0700"
+      "has_kelp": "2023-08-20 22:27:41 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
-      "has_obsidian": "2023-08-20 00:07:36 +0700"
+      "has_kelp": "2023-08-20 22:27:41 +0700"
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
     "criteria": {
-      "traded": "2023-08-20 01:31:57 +0700"
+      "has_deepslate_gold_ore": "2023-08-21 01:54:59 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
     "criteria": {
-      "has_allium": "2023-08-20 01:58:44 +0700"
+      "has_deepslate_gold_ore": "2023-08-21 01:54:59 +0700"
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
-      "bred": "2023-08-20 01:56:16 +0700"
+      "has_carved_pumpkin": "2023-08-21 02:03:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2023-08-21 02:03:12 +0700"
     },
     "done": true
   },

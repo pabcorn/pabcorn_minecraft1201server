@@ -1,239 +1,44 @@
-[00:01:49] [Server thread/INFO]: [Kevin_Barbor: Teleported AbramsM1 to Kevin_Barbor]
-[00:01:49] [Server thread/WARN]: AbramsM1 moved too quickly! 377.1277875110028,109.0,77.93990793337291
-[00:01:49] [Server thread/WARN]: AbramsM1 moved too quickly! 377.1277875110028,109.0,77.93990793337291
-[00:02:01] [Server thread/INFO]: AbramsM1 was doomed to fall by Phantom
-[00:02:40] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
-[00:03:12] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[00:03:20] [Server thread/INFO]: [Kevin_Barbor: Gave 50 experience points to AbramsM1]
-[00:03:26] [Server thread/INFO]: [Kevin_Barbor: Gave 190 experience points to AbramsM1]
-[00:04:08] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[00:05:02] [Server thread/INFO]: [Kevin_Barbor: Teleported AbramsM1 to Kevin_Barbor]
-[00:05:02] [Server thread/WARN]: AbramsM1 moved too quickly! 40.93455902429385,71.0,11.219327239198098
-[00:06:04] [Server thread/INFO]: [Kevin_Barbor: Applied effect Slow Falling to AbramsM1]
-[00:06:11] [Server thread/INFO]: [Kevin_Barbor: Applied effect Slow Falling to AbramsM1]
-[00:07:10] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[00:07:34] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[00:07:36] [Server thread/INFO]: Kevin_Barbor has made the advancement [Ice Bucket Challenge]
-[00:18:28] [Server thread/INFO]: [Kevin_Barbor: Summoned new Buddy]
-[00:18:35] [Server thread/INFO]: Named entity bsj['Buddy'/111381, l='ServerLevel[world]', x=-240.20, y=32.00, z=-61.92] died: Buddy was killed
-[00:18:35] [Server thread/INFO]: [Kevin_Barbor: Killed Buddy]
-[00:22:09] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [herobine]]
-[00:22:16] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:22:21] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
-[00:22:23] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:22:33] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [herobine]]
-[00:22:50] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:22:58] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [herobine]]
-[00:23:02] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:23:09] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
-[00:23:10] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:23:13] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [herobine]]
-[00:24:58] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:24:59] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [herobine]]
-[00:25:18] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:25:19] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [herobine]]
-[00:26:11] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:26:12] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [herobine]]
-[00:27:39] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:27:40] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [herobine]]
-[00:30:10] [Server thread/INFO]: [Kevin_Barbor: Applied effect Slow Falling to Kevin_Barbor]
-[00:31:09] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:31:11] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [herobine]]
-[00:35:30] [Server thread/INFO]: [Kevin_Barbor: Gamerule randomTickSpeed is now set to: 36]
-[00:36:38] [Server thread/INFO]: [Kevin_Barbor: Gamerule randomTickSpeed is now set to: 300]
-[00:36:55] [Server thread/INFO]: [Not Secure] <AbramsM1> มันช่วยด้วยหรอจาร??
-[00:37:01] [Server thread/INFO]: [Not Secure] <Kevin_Barbor> ดู
-[00:37:12] [Server thread/INFO]: [Not Secure] <AbramsM1> ยาอะไรรึ??
-[00:37:26] [Server thread/INFO]: [Not Secure] <Kevin_Barbor> ยาเจริญเร็ว
-[00:37:29] [Server thread/INFO]: [Kevin_Barbor: Gamerule randomTickSpeed is now set to: 3]
-[00:38:05] [Server thread/INFO]: [Not Secure] <AbramsM1> งั้นผมลองนะ
-[00:38:08] [Server thread/INFO]: [Not Secure] <Kevin_Barbor> กดสวิทต์เลย
-[00:38:23] [Server thread/INFO]: [Not Secure] <AbramsM1> เย้
-[00:38:39] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[00:38:57] [Server thread/INFO]: [Kevin_Barbor: Gamerule randomTickSpeed is now set to: 3]
-[00:41:59] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:spider_jockey']
-[00:42:21] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [Brave]]
-[00:42:30] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [Brave]]
-[00:42:36] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [herobine]]
-[00:42:41] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [herobine]]
-[00:42:44] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:42:45] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [herobine]]
-[00:43:02] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:skeleton_one']
-[00:43:19] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
-[00:43:56] [Server thread/INFO]: [Kevin_Barbor: Executed 1 command(s) from function 'mysummon:spider_jockey']
-[00:44:19] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:44:23] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [herobine]]
-[00:44:42] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
-[00:45:09] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[00:45:19] [Server thread/INFO]: [Not Secure] <AbramsM1> เดี๋ยวผมช่วยไก้ทำงานก่อน จะAFKไว่
-[00:45:19] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
-[00:46:10] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:46:18] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:46:42] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:46:51] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:47:35] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:48:29] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:49:16] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:49:27] [Server thread/INFO]: [Kevin_Barbor: Executed 6 command(s) from function 'setherobine:herobine_tierone']
-[00:49:35] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
-[00:49:41] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[00:49:58] [Server thread/INFO]: [Kevin_Barbor: Teleported 4 entities to Kevin_Barbor]
-[00:50:05] [Server thread/INFO]: [Kevin_Barbor: Teleported 4 entities to Kevin_Barbor]
-[00:50:16] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Survival Mode]
-[00:50:21] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:51:11] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
-[00:51:12] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
-[00:51:12] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
-[00:51:17] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:51:29] [Server thread/INFO]: [Kevin_Barbor: Teleported 8 entities to Kevin_Barbor]
-[00:53:13] [Server thread/INFO]: [Kevin_Barbor: Applied effect Health Boost to Kevin_Barbor]
-[00:53:36] [Server thread/INFO]: [Kevin_Barbor: Gave 12 [Cooked Cod] to Kevin_Barbor]
-[00:54:06] [Server thread/INFO]: [Kevin_Barbor: Applied effect Instant Health to Kevin_Barbor]
-[00:54:50] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:55:11] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
-[00:56:35] [Server thread/INFO]: [Kevin_Barbor: Summoned new Witch]
-[00:56:39] [Server thread/INFO]: [Kevin_Barbor: Summoned new Witch]
-[00:59:48] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[01:18:13] [Server thread/INFO]: ihap_py[/26.203.209.203:64892] logged in with entity id 123161 at (-181.66692972965845, 100.0, -75.90245964631966)
-[01:18:13] [Server thread/INFO]: ihap_py joined the game
-[01:31:32] [Server thread/INFO]: [Kevin_Barbor: Summoned new Butcher]
-[01:31:57] [Server thread/INFO]: Kevin_Barbor has made the advancement [What a Deal!]
-[01:34:34] [Server thread/INFO]: [Kevin_Barbor: Summoned new Ghast]
-[01:34:37] [Server thread/INFO]: [Kevin_Barbor: Summoned new Ghast]
-[01:35:01] [Server thread/INFO]: Villager byb['Butcher'/126566, l='ServerLevel[world]', x=-34.53, y=100.00, z=8.69] died, message: 'Butcher was killed'
-[01:35:01] [Server thread/INFO]: [Kevin_Barbor: Killed Butcher]
-[01:35:24] [Server thread/INFO]: [Kevin_Barbor: Summoned new Butcher]
-[01:35:42] [Server thread/INFO]: Villager byb['Butcher'/128000, l='ServerLevel[world]', x=-33.99, y=100.00, z=8.99] died, message: 'Butcher was killed'
-[01:35:42] [Server thread/INFO]: [Kevin_Barbor: Killed Butcher]
-[01:35:45] [Server thread/INFO]: [Kevin_Barbor: Summoned new Butcher]
-[01:41:24] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[01:42:16] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to ihap_py]
-[01:44:03] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
-[01:44:04] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
-[01:44:06] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
-[01:44:16] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
-[01:44:22] [Server thread/INFO]: [Kevin_Barbor: Summoned new Enderman]
-[01:44:47] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
-[01:45:13] [Server thread/INFO]: [Kevin_Barbor: Teleported Enderman to Kevin_Barbor]
-[01:45:37] [Server thread/INFO]: AbramsM1 was slain by Zombie
-[01:46:40] [Server thread/INFO]: ihap_py was slain by Enderman
-[01:49:53] [Server thread/INFO]: [Kevin_Barbor: Summoned new Zombie]
-[01:49:54] [Server thread/INFO]: ihap_py lost connection: Disconnected
-[01:49:54] [Server thread/INFO]: ihap_py left the game
-[01:50:29] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[01:53:04] [Server thread/INFO]: ihap_py[/26.203.209.203:65118] logged in with entity id 132043 at (-185.6998484616568, 90.0, -72.37266524554225)
-[01:53:04] [Server thread/INFO]: ihap_py joined the game
-[01:54:23] [Server thread/INFO]: [Kevin_Barbor: Killed Zombified Piglin]
-[01:54:29] [Server thread/INFO]: [Not Secure] <ihap_py> :3
-[01:54:30] [Server thread/INFO]: [Kevin_Barbor: Killed Zombified Piglin]
-[01:56:16] [Server thread/INFO]: Kevin_Barbor has made the advancement [The Parrots and the Bats]
-[01:57:07] [Server thread/INFO]: ihap_py lost connection: Disconnected
-[01:57:07] [Server thread/INFO]: ihap_py left the game
-[02:01:36] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
-[02:02:03] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Spectator Mode]
-[02:02:35] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
-[02:09:51] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
-[02:15:50] [Server thread/INFO]: [Kevin_Barbor: Killed Zombified Piglin]
-[02:18:52] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
-[02:19:54] [Server thread/INFO]: [Kevin_Barbor: Set the weather to rain]
-[02:20:11] [Server thread/INFO]: [Kevin_Barbor: Gamerule randomTickSpeed is now set to: 3]
-[02:20:55] [Server thread/INFO]: [Kevin_Barbor: Gamerule randomTickSpeed is now set to: 300]
-[02:21:31] [Server thread/INFO]: [Kevin_Barbor: Gamerule randomTickSpeed is now set to: 3]
-[02:21:56] [Server thread/INFO]: Kevin_Barbor lost connection: Disconnected
-[02:21:56] [Server thread/INFO]: Kevin_Barbor left the game
-[05:09:43] [Server thread/INFO]: AbramsM1 has made the advancement [Local Brewery]
-[05:18:13] [Server thread/INFO]: AbramsM1 has reached the goal [Zombie Doctor]
-[07:21:11] [Server thread/INFO]: AbramsM1 lost connection: Disconnected
-[07:21:11] [Server thread/INFO]: AbramsM1 left the game
-[07:22:02] [Server thread/INFO]: /advancement (grant|revoke)
-[07:22:02] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[07:22:02] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[07:22:02] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[07:22:02] [Server thread/INFO]: /clear [<targets>]
-[07:22:02] [Server thread/INFO]: /clone (<begin>|from)
-[07:22:02] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[07:22:02] [Server thread/INFO]: /data (merge|get|remove|modify)
-[07:22:02] [Server thread/INFO]: /datapack (enable|disable|list)
-[07:22:02] [Server thread/INFO]: /debug (start|stop|function)
-[07:22:02] [Server thread/INFO]: /defaultgamemode <gamemode>
-[07:22:02] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[07:22:02] [Server thread/INFO]: /effect (clear|give)
-[07:22:02] [Server thread/INFO]: /me <action>
-[07:22:02] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[07:22:02] [Server thread/INFO]: /experience (add|set|query)
-[07:22:02] [Server thread/INFO]: /xp -> experience
-[07:22:02] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[07:22:02] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[07:22:02] [Server thread/INFO]: /forceload (add|remove|query)
-[07:22:02] [Server thread/INFO]: /function <name>
-[07:22:02] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[07:22:02] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[07:22:02] [Server thread/INFO]: /give <targets> <item> [<count>]
-[07:22:02] [Server thread/INFO]: /help [<command>]
-[07:22:02] [Server thread/INFO]: /item (replace|modify)
-[07:22:02] [Server thread/INFO]: /kick <targets> [<reason>]
-[07:22:02] [Server thread/INFO]: /kill [<targets>]
-[07:22:02] [Server thread/INFO]: /list [uuids]
-[07:22:02] [Server thread/INFO]: /locate (structure|biome|poi)
-[07:22:02] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[07:22:02] [Server thread/INFO]: /msg <targets> <message>
-[07:22:02] [Server thread/INFO]: /tell -> msg
-[07:22:02] [Server thread/INFO]: /w -> msg
-[07:22:02] [Server thread/INFO]: /particle <name> [<pos>]
-[07:22:02] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[07:22:02] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[07:22:02] [Server thread/INFO]: /reload
-[07:22:02] [Server thread/INFO]: /recipe (give|take)
-[07:22:02] [Server thread/INFO]: /return <value>
-[07:22:02] [Server thread/INFO]: /ride <target> (mount|dismount)
-[07:22:02] [Server thread/INFO]: /say <message>
-[07:22:02] [Server thread/INFO]: /schedule (function|clear)
-[07:22:02] [Server thread/INFO]: /scoreboard (objectives|players)
-[07:22:02] [Server thread/INFO]: /seed
-[07:22:02] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[07:22:02] [Server thread/INFO]: /spawnpoint [<targets>]
-[07:22:02] [Server thread/INFO]: /setworldspawn [<pos>]
-[07:22:02] [Server thread/INFO]: /spectate [<target>]
-[07:22:02] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[07:22:02] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[07:22:02] [Server thread/INFO]: /summon <entity> [<pos>]
-[07:22:02] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[07:22:02] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[07:22:02] [Server thread/INFO]: /teammsg <message>
-[07:22:02] [Server thread/INFO]: /tm -> teammsg
-[07:22:02] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[07:22:02] [Server thread/INFO]: /tp -> teleport
-[07:22:02] [Server thread/INFO]: /tellraw <targets> <message>
-[07:22:02] [Server thread/INFO]: /time (set|add|query)
-[07:22:02] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[07:22:02] [Server thread/INFO]: /trigger <objective> [add|set]
-[07:22:02] [Server thread/INFO]: /weather (clear|rain|thunder)
-[07:22:02] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[07:22:02] [Server thread/INFO]: /jfr (start|stop)
-[07:22:02] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[07:22:02] [Server thread/INFO]: /banlist [ips|players]
-[07:22:02] [Server thread/INFO]: /ban <targets> [<reason>]
-[07:22:02] [Server thread/INFO]: /deop <targets>
-[07:22:02] [Server thread/INFO]: /op <targets>
-[07:22:02] [Server thread/INFO]: /pardon <targets>
-[07:22:02] [Server thread/INFO]: /pardon-ip <target>
-[07:22:02] [Server thread/INFO]: /perf (start|stop)
-[07:22:02] [Server thread/INFO]: /save-all [flush]
-[07:22:02] [Server thread/INFO]: /save-off
-[07:22:02] [Server thread/INFO]: /save-on
-[07:22:02] [Server thread/INFO]: /setidletimeout <minutes>
-[07:22:02] [Server thread/INFO]: /stop
-[07:22:02] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[07:22:12] [Server thread/INFO]: Saving the game (this may take a moment!)
-[07:22:12] [Server thread/INFO]: Saved the game
-[07:22:16] [Server thread/INFO]: Stopping the server
-[07:22:17] [Server thread/INFO]: Stopping server
-[07:22:17] [Server thread/INFO]: Saving players
-[07:22:17] [Server thread/INFO]: Saving worlds
-[07:22:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:22:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:22:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:22:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:22:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:22:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:22:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:15:43] [Server thread/INFO]: AbramsM1[/127.0.0.1:65177] logged in with entity id 18488 at (-218.00490827265196, 42.0, -91.24719910853999)
+[00:15:43] [Server thread/INFO]: AbramsM1 joined the game
+[00:46:15] [Server thread/INFO]: Villager byb['Chakulzaaaa'/18519, l='ServerLevel[world]', x=-180.70, y=80.17, z=-75.30] died, message: 'Chakulzaaaa drowned'
+[00:46:15] [Server thread/INFO]: Named entity byb['Chakulzaaaa'/18519, l='ServerLevel[world]', x=-180.70, y=80.17, z=-75.30] died: Chakulzaaaa drowned
+[01:11:08] [Server thread/INFO]: AbramsM1 was blown up by Creeper
+[01:36:36] [Server thread/INFO]: Kevin_Barbor[/26.246.11.39:62670] logged in with entity id 33112 at (-191.59002117042465, 100.0, -106.86250001192093)
+[01:36:36] [Server thread/INFO]: Kevin_Barbor joined the game
+[01:37:06] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
+[01:37:52] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[01:39:08] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[01:40:10] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
+[01:40:12] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[01:40:54] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[01:41:27] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[01:43:36] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[01:44:07] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[01:44:45] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[01:45:04] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
+[01:45:55] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[01:46:05] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [herobine]]
+[01:46:32] [Server thread/INFO]: [Kevin_Barbor: Gave 1 [Iron Pickaxe] to Kevin_Barbor]
+[01:47:01] [Server thread/INFO]: [Kevin_Barbor: Executed 25 command(s) from function 'setherobine:joinherobineoverworld']
+[01:47:03] [Server thread/INFO]: [Kevin_Barbor: Added AbramsM1 to team [herobine]]
+[01:47:25] [Server thread/INFO]: [Kevin_Barbor: Set own game mode to Creative Mode]
+[01:56:31] [Server thread/INFO]: [Kevin_Barbor: Teleported Kevin_Barbor to AbramsM1]
+[02:07:10] [Server thread/INFO]: Kevin_Barbor lost connection: Disconnected
+[02:07:10] [Server thread/INFO]: Kevin_Barbor left the game
+[02:53:21] [Server thread/INFO]: AbramsM1 was slain by Enderman
+[02:54:35] [Server thread/INFO]: AbramsM1 was slain by Enderman
+[03:55:22] [Server thread/INFO]: AbramsM1 lost connection: Disconnected
+[03:55:22] [Server thread/INFO]: AbramsM1 left the game
+[03:57:36] [Server thread/INFO]: Saving the game (this may take a moment!)
+[03:57:36] [Server thread/INFO]: Saved the game
+[03:57:44] [Server thread/INFO]: Stopping the server
+[03:57:44] [Server thread/INFO]: Stopping server
+[03:57:44] [Server thread/INFO]: Saving players
+[03:57:44] [Server thread/INFO]: Saving worlds
+[03:57:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:57:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:57:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:57:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:57:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:57:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:57:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
